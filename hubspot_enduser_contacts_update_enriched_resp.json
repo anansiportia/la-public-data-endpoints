@@ -1,0 +1,1 @@
+{"status":"error","message":"Cannot set PropertyValueCoordinates{portalId=245059996, objectTypeId=ObjectTypeId{legacyObjectType=CONTACT}, propertyName=email, value=autodiagyt@gmail.com} on 408902228706. 409276724961 already has that value.","correlationId":"d9893079-71e7-4d63-863c-109da186bfec","category":"VALIDATION_ERROR"}

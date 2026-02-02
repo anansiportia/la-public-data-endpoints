@@ -1,0 +1,511 @@
+{
+  "inputs": [
+    {
+      "id": "409276724958",
+      "properties": {
+        "phone": "(512) 385-5853",
+        "website": "https://www.jukeauto.com/"
+      }
+    },
+    {
+      "id": "409276724960",
+      "properties": {
+        "phone": "(512) 447-1900",
+        "website": "https://www.hackneyauto.com/"
+      }
+    },
+    {
+      "id": "409276724959",
+      "properties": {
+        "phone": "(512) 346-0152",
+        "website": "https://arborautoworks.com/"
+      }
+    },
+    {
+      "id": "409276724961",
+      "properties": {
+        "phone": "(323) 551-6939",
+        "website": "https://www.independentnissanlosangeles.com/"
+      }
+    },
+    {
+      "id": "408902228671",
+      "properties": {
+        "phone": "(323) 792-1777",
+        "website": "https://www.autorepairshoplosangeles.com/"
+      }
+    },
+    {
+      "id": "408902227697",
+      "properties": {
+        "phone": "(773) 235-5400",
+        "website": "https://www.delgados.com/"
+      }
+    },
+    {
+      "id": "408902227682",
+      "properties": {
+        "phone": "(773) 588-6631",
+        "website": "https://www.eandj.com/about-us"
+      }
+    },
+    {
+      "id": "408902228680",
+      "properties": {
+        "phone": "(773) 847-9627",
+        "website": "https://www.parkviewautochicago.com/"
+      }
+    },
+    {
+      "id": "408902228683",
+      "properties": {
+        "phone": "(305) 364-5901",
+        "website": "https://www.gramenziautoservices.com/"
+      }
+    },
+    {
+      "id": "408902227690",
+      "properties": {
+        "phone": "(305) 388-0888",
+        "website": "https://thecarclinicofmiami.com/"
+      }
+    },
+    {
+      "id": "408902227691",
+      "properties": {
+        "phone": "(305) 262-9445",
+        "website": "https://www.mercedesautorepairmiami.com/"
+      }
+    },
+    {
+      "id": "408902228723",
+      "properties": {
+        "phone": "(206) 339-7920",
+        "website": "https://www.downtownautomotiveseattle.com/"
+      }
+    },
+    {
+      "id": "408902227705",
+      "properties": {
+        "phone": "(425) 828-3600",
+        "website": "https://allwheeldriveauto.com/"
+      }
+    },
+    {
+      "id": "408902228689",
+      "properties": {
+        "phone": "(206) 201-1373",
+        "website": "https://www.everybodysautoservice.com/auto-repair"
+      }
+    },
+    {
+      "id": "408902228696",
+      "properties": {
+        "phone": "(604) 327-7112",
+        "website": "https://pawlikautomotive.com/"
+      }
+    },
+    {
+      "id": "408902227686",
+      "properties": {
+        "phone": "(778) 488-0888",
+        "email": "bmwvanc@gmail.com",
+        "website": "https://madaautosport.com/"
+      }
+    },
+    {
+      "id": "408902227680",
+      "properties": {
+        "phone": "(514) 683-0091",
+        "website": "https://www.transmico.com/en/contact-mechanic-garage-pierrefonds/"
+      }
+    },
+    {
+      "id": "408902228684",
+      "properties": {
+        "phone": "(514) 279-2629",
+        "website": "https://www.garagemario.mechanicnet.com/"
+      }
+    },
+    {
+      "id": "408902228681",
+      "properties": {
+        "phone": "020 8800 9850",
+        "website": "https://www.daytonagarage.co.uk/"
+      }
+    },
+    {
+      "id": "408902228718",
+      "properties": {
+        "phone": "020 7727 7111",
+        "website": "https://www.hollandpark-autos.co.uk/"
+      }
+    },
+    {
+      "id": "408902228720",
+      "properties": {
+        "phone": "020 8746 2448",
+        "website": "https://www.thegaragelondon.com/"
+      }
+    },
+    {
+      "id": "408902227685",
+      "properties": {
+        "phone": "0404 096 583",
+        "website": "https://sydneycarrepair.com.au/"
+      }
+    },
+    {
+      "id": "408902228668",
+      "properties": {
+        "phone": "(02) 9644 2844",
+        "website": "https://www.xclusiveauto.com.au/"
+      }
+    },
+    {
+      "id": "408902228682",
+      "properties": {
+        "phone": "030 49988428",
+        "website": "https://www.adr-berlin.de/"
+      }
+    },
+    {
+      "id": "408902227694",
+      "properties": {
+        "phone": "0160 1099988",
+        "website": "https://www.auto-werkstatt-berlin.de/"
+      }
+    },
+    {
+      "id": "408902227675",
+      "properties": {
+        "website": "https://pinguin-werkstatt.com"
+      }
+    },
+    {
+      "id": "408902228667",
+      "properties": {
+        "phone": "01 71 75 91 24",
+        "website": "https://ak-garage.com/"
+      }
+    },
+    {
+      "id": "408902228704",
+      "properties": {
+        "phone": "913 11 44 49",
+        "website": "https://www.taller-madrid.es/"
+      }
+    },
+    {
+      "id": "408902228724",
+      "properties": {
+        "phone": "933 11 43 07",
+        "website": "https://www.tallerbarcelona.com/"
+      }
+    },
+    {
+      "id": "408902228711",
+      "properties": {
+        "email": "taller@citauto.es",
+        "website": "https://www.citauto.es/"
+      }
+    },
+    {
+      "id": "408902228674",
+      "properties": {
+        "phone": "02 8940 6247",
+        "website": "https://www.autofficinasottile.com/"
+      }
+    },
+    {
+      "id": "408902228707",
+      "properties": {
+        "phone": "02 9738 3148",
+        "email": "info@autofficinadaytona.it",
+        "website": "https://www.milanoautofficina.it/"
+      }
+    },
+    {
+      "id": "408902227671",
+      "properties": {
+        "phone": "55 5393 6852",
+        "website": "https://www.powerservice.com.mx/"
+      }
+    },
+    {
+      "id": "408902228719",
+      "properties": {
+        "phone": "072 585 7711",
+        "website": "https://robertshamservicecentre.co.za/"
+      }
+    },
+    {
+      "id": "408902227704",
+      "properties": {
+        "phone": "0412 040 463",
+        "website": "https://www.kismetmechanical.com.au/"
+      }
+    },
+    {
+      "id": "408902227689",
+      "properties": {
+        "phone": "0405 907 087",
+        "website": "https://www.autocuremobilemechanics.com.au/"
+      }
+    },
+    {
+      "id": "408902228722",
+      "properties": {
+        "phone": "(720) 284-8423",
+        "website": "https://www.mobilemechanicprosofdenver.com/"
+      }
+    },
+    {
+      "id": "408902227696",
+      "properties": {
+        "phone": "(303) 279-9433",
+        "website": "https://mobilemechanic4denver.com/"
+      }
+    },
+    {
+      "id": "408902228712",
+      "properties": {
+        "phone": "07897 428396",
+        "website": "https://mobilemechanic.london/"
+      }
+    },
+    {
+      "id": "408902227699",
+      "properties": {
+        "phone": "07897 428396",
+        "website": "https://mobilemechanic247.co.uk/"
+      }
+    },
+    {
+      "id": "408902228678",
+      "properties": {
+        "phone": "074 011 6007",
+        "website": "https://www.michanic.co.za/locations/city-of-johannesburg-metropolitan-municipality/johannesburg-south/"
+      }
+    },
+    {
+      "id": "408902228691",
+      "properties": {
+        "phone": "(720) 284-8423",
+        "website": "https://mobilemechanicdenverco.com/"
+      }
+    },
+    {
+      "id": "408902228685",
+      "properties": {
+        "phone": "0404 513 029",
+        "website": "https://www.autocertifiedmobilemechanic.com/contact"
+      }
+    },
+    {
+      "id": "408902228672",
+      "properties": {
+        "phone": "(303) 513-0305",
+        "website": "https://denvermobilemechanic.net/"
+      }
+    },
+    {
+      "id": "408902227698",
+      "properties": {
+        "phone": "(607) 566-2225",
+        "website": "https://www.southmainautorepair.com/"
+      }
+    },
+    {
+      "id": "408902228692",
+      "properties": {
+        "phone": "(724) 342-9344",
+        "website": "https://pinehollowdiagnostics.com/"
+      }
+    },
+    {
+      "id": "408902228677",
+      "properties": {
+        "phone": "(708) 500-1375",
+        "website": "https://www.humblemechanic.com/"
+      }
+    },
+    {
+      "id": "408902227700",
+      "properties": {
+        "phone": "(303) 466-6552",
+        "website": "https://fifthgearauto.com/"
+      }
+    },
+    {
+      "id": "408902228694",
+      "properties": {
+        "phone": "(303) 248-3652",
+        "website": "https://www.thegaragedenver.com/"
+      }
+    },
+    {
+      "id": "408902228721",
+      "properties": {
+        "phone": "(602) 955-2115",
+        "website": "https://www.luscheksauto.com/"
+      }
+    },
+    {
+      "id": "408902228673",
+      "properties": {
+        "phone": "(832) 538-0666",
+        "website": "https://www.choiceautorepair.com/"
+      }
+    },
+    {
+      "id": "408902228701",
+      "properties": {
+        "phone": "(701) 478-3838",
+        "website": "https://mattsautomotive.com/"
+      }
+    },
+    {
+      "id": "408902228675",
+      "properties": {
+        "phone": "(404) 793-7503",
+        "website": "https://www.lindberghautomotive.com/"
+      }
+    },
+    {
+      "id": "408902228690",
+      "properties": {
+        "phone": "(972) 241-4922",
+        "website": "https://www.precisionautocaresj.com/"
+      }
+    },
+    {
+      "id": "408902228703",
+      "properties": {
+        "phone": "(403) 249-8991",
+        "website": "https://www.fountaintire.com/"
+      }
+    },
+    {
+      "id": "408902228693",
+      "properties": {
+        "phone": "0161 705 0000",
+        "website": "https://www.manchesterautorepairs.co.uk/"
+      }
+    },
+    {
+      "id": "408902228697",
+      "properties": {
+        "phone": "0121 449 4799",
+        "website": "https://www.birminghamautocentre.co.uk/"
+      }
+    },
+    {
+      "id": "408902227701",
+      "properties": {
+        "phone": "(19) 3886-1385",
+        "website": "https://www.hightorque.com.br/"
+      }
+    },
+    {
+      "id": "408902227702",
+      "properties": {
+        "phone": "077956 75918",
+        "website": "https://garageworks.in/"
+      }
+    },
+    {
+      "id": "408902227688",
+      "properties": {
+        "phone": "083989 70970",
+        "website": "https://gomechanic.in/"
+      }
+    },
+    {
+      "id": "408902228669",
+      "properties": {
+        "phone": "(512) 690-4774",
+        "website": "https://www.techoneauto.com/"
+      }
+    },
+    {
+      "id": "408902228679",
+      "properties": {
+        "phone": "(512) 442-1361",
+        "website": "https://www.terrysaytherauto.com/"
+      }
+    },
+    {
+      "id": "408902228676",
+      "properties": {
+        "website": "https://www.scannerdanner.com/"
+      }
+    },
+    {
+      "id": "408902228688",
+      "properties": {
+        "website": "https://pinehollowdiagnostics.com/"
+      }
+    },
+    {
+      "id": "408902228695",
+      "properties": {
+        "website": "https://www.southmainautorepair.com/"
+      }
+    },
+    {
+      "id": "408902228686",
+      "properties": {
+        "website": "https://www.humblemechanic.com/"
+      }
+    },
+    {
+      "id": "408902227703",
+      "properties": {
+        "website": "https://www.ericthecarguy.com/"
+      }
+    },
+    {
+      "id": "408902228715",
+      "properties": {
+        "website": "https://www.iatn.net/"
+      }
+    },
+    {
+      "id": "408902227670",
+      "properties": {
+        "website": "https://www.1aauto.com/"
+      }
+    },
+    {
+      "id": "408902227676",
+      "properties": {
+        "website": "https://www.motorage.com/"
+      }
+    },
+    {
+      "id": "408902228710",
+      "properties": {
+        "website": "https://www.aviondemand.com/"
+      }
+    },
+    {
+      "id": "408902228670",
+      "properties": {
+        "website": "https://www.aeswave.com/"
+      }
+    },
+    {
+      "id": "408902228708",
+      "properties": {
+        "website": "https://www.garagegurus.tech/"
+      }
+    },
+    {
+      "id": "408902227684",
+      "properties": {
+        "website": "https://automotiveaftermarket.bosch.com/"
+      }
+    }
+  ]
+}

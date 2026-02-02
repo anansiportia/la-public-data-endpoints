@@ -1,0 +1,1 @@
+{"status":"error","message":"Cannot set PropertyValueCoordinates{portalId=245059996, objectTypeId=ObjectTypeId{legacyObjectType=CONTACT}, propertyName=email, value=taller@citauto.es} on 408902228711. 409276724959 already has that value.","correlationId":"25374198-bb44-43b1-bad0-39196f57f650","category":"VALIDATION_ERROR"}
