@@ -1,6 +1,6 @@
 # LA Public Data Endpoints Catalog
 
-Total endpoints: 140
+Total endpoints: 146
 
 | Source | Jurisdiction | Dataset/Service | Endpoint URL | Sample Query URL | Data Type | Notes |
 |---|---|---|---|---|---|---|
@@ -128,3 +128,9 @@ Total endpoints: 140
 | Culver City Open Data (ArcGIS REST) | City of Culver City | City Boundary | https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/City_Boundary/FeatureServer | https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/City_Boundary/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1 | ArcGIS REST | Feature Service |
 | Culver City Open Data (ArcGIS REST) | City of Culver City | Streetlight | https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/Streetlight/FeatureServer | https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/Streetlight/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1 | ArcGIS REST | Feature Service |
 | Burbank Open Data (ArcGIS Online Org Search) | City of Burbank | ArcGIS Online org search (Feature/Map Services) | https://www.arcgis.com/sharing/rest/search?f=json&q=orgid:AXaYBvnJsB5Q7sDF%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22) | https://www.arcgis.com/sharing/rest/search?f=json&num=1&q=orgid:AXaYBvnJsB5Q7sDF%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22) | ArcGIS REST | orgId AXaYBvnJsB5Q7sDF; total 1708 services (Feature/Map) as of 2026-02-02 |
+| West Hollywood Open Data (Socrata) | City of West Hollywood | Active Regulatory Licences | https://data.weho.org/resource/q3k8-iaby.json | https://data.weho.org/resource/q3k8-iaby.json?$limit=1 | Socrata | Business regulatory licenses (active). |
+| West Hollywood Open Data (Socrata) | City of West Hollywood | WeHo Zoning | https://data.weho.org/resource/vyfp-q9vs.json | https://data.weho.org/resource/vyfp-q9vs.json?$limit=1 | Socrata | Zoning parcels for West Hollywood. |
+| West Hollywood Open Data (Socrata) | City of West Hollywood | Public Parking | https://data.weho.org/resource/fiyy-83j4.json | https://data.weho.org/resource/fiyy-83j4.json?$limit=1 | Socrata | City parking garages, lots, and public valet stations. |
+| LA Metro Open Data | Los Angeles County Metropolitan Transportation Authority (LACMTA) | GTFS Bus Schedule (zip) | https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip | https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip | GTFS | Static GTFS schedule data for Metro bus service. |
+| LA Metro Open Data | Los Angeles County Metropolitan Transportation Authority (LACMTA) | GTFS Rail Schedule (zip) | https://gitlab.com/LACMTA/gtfs_rail/raw/master/gtfs_rail.zip | https://gitlab.com/LACMTA/gtfs_rail/raw/master/gtfs_rail.zip | GTFS | Static GTFS schedule data for Metro rail service. |
+| LA Metro (ArcGIS Online Org Search) | Los Angeles County Metropolitan Transportation Authority (LACMTA) | ArcGIS Online org search (Feature/Map Services) | https://www.arcgis.com/sharing/rest/search?f=json&q=orgid:lsvzsQ5u5k8py5Sx%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22) | https://www.arcgis.com/sharing/rest/search?f=json&num=1&q=orgid:lsvzsQ5u5k8py5Sx%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22) | ArcGIS REST | orgId lsvzsQ5u5k8py5Sx; total 162 services (Feature/Map) as of 2026-02-02 |

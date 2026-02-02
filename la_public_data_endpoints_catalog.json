@@ -1258,5 +1258,59 @@
     "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/elevate-28-investment-plan/records?limit=1",
     "Data Type": "OpenDataSoft",
     "Notes": ""
+  },
+  {
+    "Source": "West Hollywood Open Data (Socrata)",
+    "Jurisdiction": "City of West Hollywood",
+    "Dataset/Service": "Active Regulatory Licences",
+    "Endpoint URL": "https://data.weho.org/resource/q3k8-iaby.json",
+    "Sample Query URL": "https://data.weho.org/resource/q3k8-iaby.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Business regulatory licenses (active)."
+  },
+  {
+    "Source": "West Hollywood Open Data (Socrata)",
+    "Jurisdiction": "City of West Hollywood",
+    "Dataset/Service": "WeHo Zoning",
+    "Endpoint URL": "https://data.weho.org/resource/vyfp-q9vs.json",
+    "Sample Query URL": "https://data.weho.org/resource/vyfp-q9vs.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Zoning parcels for West Hollywood."
+  },
+  {
+    "Source": "West Hollywood Open Data (Socrata)",
+    "Jurisdiction": "City of West Hollywood",
+    "Dataset/Service": "Public Parking",
+    "Endpoint URL": "https://data.weho.org/resource/fiyy-83j4.json",
+    "Sample Query URL": "https://data.weho.org/resource/fiyy-83j4.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "City parking garages, lots, and public valet stations."
+  },
+  {
+    "Source": "LA Metro Open Data",
+    "Jurisdiction": "Los Angeles County Metropolitan Transportation Authority (LACMTA)",
+    "Dataset/Service": "GTFS Bus Schedule (zip)",
+    "Endpoint URL": "https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip",
+    "Sample Query URL": "https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip",
+    "Data Type": "GTFS",
+    "Notes": "Static GTFS schedule data for Metro bus service."
+  },
+  {
+    "Source": "LA Metro Open Data",
+    "Jurisdiction": "Los Angeles County Metropolitan Transportation Authority (LACMTA)",
+    "Dataset/Service": "GTFS Rail Schedule (zip)",
+    "Endpoint URL": "https://gitlab.com/LACMTA/gtfs_rail/raw/master/gtfs_rail.zip",
+    "Sample Query URL": "https://gitlab.com/LACMTA/gtfs_rail/raw/master/gtfs_rail.zip",
+    "Data Type": "GTFS",
+    "Notes": "Static GTFS schedule data for Metro rail service."
+  },
+  {
+    "Source": "LA Metro (ArcGIS Online Org Search)",
+    "Jurisdiction": "Los Angeles County Metropolitan Transportation Authority (LACMTA)",
+    "Dataset/Service": "ArcGIS Online org search (Feature/Map Services)",
+    "Endpoint URL": "https://www.arcgis.com/sharing/rest/search?f=json&q=orgid:lsvzsQ5u5k8py5Sx%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22)",
+    "Sample Query URL": "https://www.arcgis.com/sharing/rest/search?f=json&num=1&q=orgid:lsvzsQ5u5k8py5Sx%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22)",
+    "Data Type": "ArcGIS REST",
+    "Notes": "orgId lsvzsQ5u5k8py5Sx; total 162 services (Feature/Map) as of 2026-02-02."
   }
 ]
