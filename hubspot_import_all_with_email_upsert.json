@@ -1,0 +1,158 @@
+{
+  "inputs": [
+    {
+      "idProperty": "email",
+      "id": "support@scannerdanner.com",
+      "properties": {
+        "email": "support@scannerdanner.com",
+        "firstname": "ScannerDanner",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/channel/UCrf6f8hn5oy4alB2WXJCIqA | https://www.scannerdanner.com/contact-us.html",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "Biz@EricTheCarGuy.com",
+      "properties": {
+        "email": "Biz@EricTheCarGuy.com",
+        "firstname": "EricTheCarGuy",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.ericthecarguy.com/contact/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "thecarcarenut@gmail.com",
+      "properties": {
+        "email": "thecarcarenut@gmail.com",
+        "firstname": "The Car Care",
+        "lastname": "Nut",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/c/TheCarCareNut | https://www.facebook.com/thecarcarenut/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "carwizard@adhesivemedia.com",
+      "properties": {
+        "email": "carwizard@adhesivemedia.com",
+        "firstname": "The Car",
+        "lastname": "Wizard",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/channel/UC2TTf3i4wwsRW8ex1zRXH8A | https://www.instagram.com/realcarwizard/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "info@project-farm.com",
+      "properties": {
+        "email": "info@project-farm.com",
+        "firstname": "Project",
+        "lastname": "Farm",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/channel/UC2rzsm1Qi6N1X-wuOg_p0Ng | https://project-farm.com/pages/contact-us",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "flatratemaster@gmail.com",
+      "properties": {
+        "email": "flatratemaster@gmail.com",
+        "firstname": "Flat Rate",
+        "lastname": "Master",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/@flatratemaster",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "info@bogisgarage.com",
+      "properties": {
+        "email": "info@bogisgarage.com",
+        "firstname": "Bogi’s",
+        "lastname": "Garage",
+        "jobtitle": "Affiliate prospect",
+        "company": "Website/Media creator",
+        "website": "https://www.bogisgarage.com/contact/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "Rory@moabmotorsport.com",
+      "properties": {
+        "email": "Rory@moabmotorsport.com",
+        "firstname": "Trail",
+        "lastname": "Mater",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/@trailmater | https://www.trailmater.com/contact",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "Support@ShopFixAcademy.com",
+      "properties": {
+        "email": "Support@ShopFixAcademy.com",
+        "firstname": "Shop Fix",
+        "lastname": "Academy",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube/Business creator",
+        "website": "https://www.youtube.com/@shopfixacademy | https://shopfixacademy.com/contactus/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "carm@remarkableresults.biz",
+      "properties": {
+        "email": "carm@remarkableresults.biz",
+        "firstname": "Remarkable Results",
+        "lastname": "Radio",
+        "jobtitle": "Affiliate prospect",
+        "company": "Podcast/FB creator",
+        "website": "https://remarkableresults.biz/ | https://www.facebook.com/RemarkableResultsRadioPodcast/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "BGsparksautomotive@gmail.com",
+      "properties": {
+        "email": "BGsparksautomotive@gmail.com",
+        "firstname": "Sparks Car",
+        "lastname": "Care",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@sparkscarcare",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "toolsareus@icloud.com",
+      "properties": {
+        "email": "toolsareus@icloud.com",
+        "firstname": "Tools Are",
+        "lastname": "Us",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@tools_are_us",
+        "lifecyclestage": "lead"
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "inputs": [
+    {
+      "from": {
+        "id": "281957248748"
+      },
+      "to": {
+        "id": "408956680898"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "281957248742"
+      },
+      "to": {
+        "id": "408956680895"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "281957248746"
+      },
+      "to": {
+        "id": "408956680899"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "281957248741"
+      },
+      "to": {
+        "id": "408956680900"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "281957248749"
+      },
+      "to": {
+        "id": "408956680893"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "281957248743"
+      },
+      "to": {
+        "id": "408956680901"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "281957248745"
+      },
+      "to": {
+        "id": "408956680902"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "281957248751"
+      },
+      "to": {
+        "id": "408956680904"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "281957248740"
+      },
+      "to": {
+        "id": "408956680896"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "281957248747"
+      },
+      "to": {
+        "id": "408956680897"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "281957248744"
+      },
+      "to": {
+        "id": "408956680903"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    },
+    {
+      "from": {
+        "id": "281957248750"
+      },
+      "to": {
+        "id": "408956680894"
+      },
+      "types": [
+        {
+          "associationCategory": "HUBSPOT_DEFINED",
+          "associationTypeId": 3
+        }
+      ]
+    }
+  ]
+}

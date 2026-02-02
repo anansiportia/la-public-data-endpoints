@@ -1,0 +1,604 @@
+{
+  "inputs": [
+    {
+      "id": "282225130170",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130197",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130202",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130184",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130229",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130228",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130226",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130222",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130224",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130233",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130178",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131219",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131218",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130192",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131207",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130221",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131195",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130186",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131214",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225129207",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131198",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130196",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130217",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131210",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130203",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130231",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130179",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130176",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130207",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130209",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130193",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130223",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131222",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130181",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130230",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130204",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131196",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131205",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130182",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130213",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131197",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130199",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130215",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225129206",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130189",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131215",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225129205",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131208",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131216",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131202",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130171",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130200",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131220",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130172",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130194",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130220",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131221",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130208",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130187",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130198",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225129209",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131223",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131204",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130174",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131212",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131201",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131213",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130206",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131206",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131203",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130173",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130180",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130185",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130219",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131217",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130201",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225129204",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130225",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130210",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130190",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130211",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130175",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225129208",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130177",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130218",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130227",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130216",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130205",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130232",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131199",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131194",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130183",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130214",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131211",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130195",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130191",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130212",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131200",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225131209",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    },
+    {
+      "id": "282225130188",
+      "properties": {
+        "mb_campaign": "end_user_acquisition"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"status":"error","message":"No property named 'mb_campaign' exists.","correlationId":"aece13ad-7775-4149-86fa-ca33d6c0273d","context":{"name":["mb_campaign"]},"category":"OBJECT_NOT_FOUND","subCategory":"Properties.PROPERTY_NOT_FOUND"}

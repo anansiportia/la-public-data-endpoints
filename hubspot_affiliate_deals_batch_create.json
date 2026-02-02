@@ -1,0 +1,100 @@
+{
+  "inputs": [
+    {
+      "properties": {
+        "dealname": "Affiliate - ScannerDanner",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    },
+    {
+      "properties": {
+        "dealname": "Affiliate - EricTheCarGuy",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    },
+    {
+      "properties": {
+        "dealname": "Affiliate - The Car Care Nut",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    },
+    {
+      "properties": {
+        "dealname": "Affiliate - The Car Wizard",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    },
+    {
+      "properties": {
+        "dealname": "Affiliate - Project Farm",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    },
+    {
+      "properties": {
+        "dealname": "Affiliate - Flat Rate Master",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    },
+    {
+      "properties": {
+        "dealname": "Affiliate - Bogi’s Garage",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    },
+    {
+      "properties": {
+        "dealname": "Affiliate - Trail Mater",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    },
+    {
+      "properties": {
+        "dealname": "Affiliate - Shop Fix Academy",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    },
+    {
+      "properties": {
+        "dealname": "Affiliate - Remarkable Results Radio",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    },
+    {
+      "properties": {
+        "dealname": "Affiliate - Sparks Car Care",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    },
+    {
+      "properties": {
+        "dealname": "Affiliate - Tools Are Us",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "amount": "0"
+      }
+    }
+  ]
+}

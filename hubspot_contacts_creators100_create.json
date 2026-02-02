@@ -1,0 +1,988 @@
+{
+  "inputs": [
+    {
+      "properties": {
+        "firstname": "Tekamo",
+        "lastname": "HD",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TekamoHD",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Flat Rate",
+        "lastname": "Master",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@FlatRateMaster",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Tool Review",
+        "lastname": "Zone",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ToolReviewZone",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Toolz",
+        "lastname": "Guru",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ToolzGuru",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "BleepinJeep",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@BleepinJeep",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Mighty Car",
+        "lastname": "Mods",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@mightycarmods",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Bad Obsession",
+        "lastname": "Motorsport",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@BadObsessionMotorsport",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Autodoc",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@autodoc",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Project",
+        "lastname": "Farm",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ProjectFarm",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Torque Test",
+        "lastname": "Channel",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TorqueTestChannel",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Fabrication",
+        "lastname": "Series",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TheFabricationSeries",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Wrenching With",
+        "lastname": "Kenny",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@WrenchingWithKenny",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Goonzquad",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@Goonzquad",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "B is for",
+        "lastname": "Build",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@BisforBuild",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Rich",
+        "lastname": "Rebuilds",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@RichRebuilds",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Cleetus",
+        "lastname": "McFarland",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@CleetusMcFarland",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Tavarish",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@tavarish",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Samcrac",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@Samcrac",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Auto Auction",
+        "lastname": "Rebuilds",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@AutoAuctionRebuilds",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Wrench Every",
+        "lastname": "Day",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@WrenchEveryDay",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "LegitStreetCars",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@LegitStreetCars",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Skid",
+        "lastname": "Factory",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TheSkidFactory",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Robot",
+        "lastname": "Cantina",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@RobotCantina",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Speedkar99",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@speedkar99",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Delboy's",
+        "lastname": "Garage",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@DelboysGarage",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "AutoFix",
+        "lastname": "Pal",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@AutoFixPal",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Driveway",
+        "lastname": "Engineer",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TheDrivewayEngineer",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Amazing",
+        "lastname": "Mechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TheAmazingMechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "MotionAutoTV",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@MotionAutoTV",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "2vintage",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@2vintage",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "I Do",
+        "lastname": "Cars",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@IDoCars",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "M539",
+        "lastname": "Restorations",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@M539Restorations",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Car",
+        "lastname": "Wizard",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@CarWizard",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "ScannerDanner",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ScannerDanner",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Pine Hollow Auto",
+        "lastname": "Diagnostics",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@PineHollowAutoDiagnostics",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "South Main",
+        "lastname": "Auto",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@SouthMainAuto",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "DiagnoseDan",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@DiagnoseDan",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Car Care",
+        "lastname": "Nut",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TheCarCareNut",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Humble",
+        "lastname": "Mechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@HumbleMechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Rainman Ray's",
+        "lastname": "Repairs",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@RainmanRaysRepairs",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Schrodingers",
+        "lastname": "Box",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@SchrodingersBox",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Car Audio",
+        "lastname": "Fabrication",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@CarAudioFabrication",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "O'Reileys",
+        "lastname": "Autos",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ORileysAutos",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "TS Mobile",
+        "lastname": "Mechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TSMobileMechanicLive",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "New Level",
+        "lastname": "Automotive",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@NewLevelAutomotive",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "WeberAuto",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@WeberAuto",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Engineering",
+        "lastname": "Explained",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@EngineeringExplained",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Car questions",
+        "lastname": "answered",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@CarQuestionsAnswered",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Auto Repair",
+        "lastname": "Guys",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@AutoRepairGuys",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Electrical Car Repair",
+        "lastname": "LIVE",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ElectricalCarRepairLIVE",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "EricTheCarGuy",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@EricTheCarGuy",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "ChrisFix",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@chrisfix",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Royalty Auto",
+        "lastname": "Service",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@RoyaltyAutoService",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Watch Wes",
+        "lastname": "Work",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@WatchWesWork",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Diesel Tech",
+        "lastname": "Ron",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@DieselTechRon",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Weekday",
+        "lastname": "Warrior",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@WeekdayWarrior",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Car",
+        "lastname": "Ninja",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@CarNinja",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Precision",
+        "lastname": "Transmission",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@precisiontransmission",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Practical",
+        "lastname": "Mechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ThePracticalMechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "AutoTech",
+        "lastname": "Mike",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@AutoTechMike",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Mechanic",
+        "lastname": "Mindset",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@MechanicMindset",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Scanner",
+        "lastname": "Guy",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TheScannerGuy",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "AutoDiagYT",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@AutoDiagYT",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Pursuit",
+        "lastname": "Automotive",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@PursuitAutomotive",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Car",
+        "lastname": "Doctor",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TheCarDoctor",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Remarkable Results",
+        "lastname": "Radio",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@RemarkableResultsRadio",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "ASOG",
+        "lastname": "Podcast",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ASOGPodcast",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Shop Fix",
+        "lastname": "Academy",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ShopFixAcademy",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Service Advisor Training -",
+        "lastname": "AdvisorFix",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@AdvisorfixTV",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Elite Motor Works / Jamie's",
+        "lastname": "Garage",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@JamiesGarage",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Disgruntled",
+        "lastname": "Mechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TheDisgruntledMechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Just Rolled",
+        "lastname": "In",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@JustRolledIn",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Car",
+        "lastname": "Count",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TheCarCount",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Auto Repair with",
+        "lastname": "Jake",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@AutoRepairwithJake",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Auto Repair",
+        "lastname": "SEO",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@AutoRepairSEO",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Shop Owner",
+        "lastname": "Coach",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ShopOwnerCoach",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Humble",
+        "lastname": "Mechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@HumbleMechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Flat Rate",
+        "lastname": "Master",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@FlatRateMaster",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Faye",
+        "lastname": "Hadley",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@FayeHadley",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Clever",
+        "lastname": "Mechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@CleverMechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Autoshop",
+        "lastname": "Owner",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@AutoshopOwner",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Service Drive",
+        "lastname": "Revolution",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ServiceDriveRevolution",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Mechanic",
+        "lastname": "Doctor",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TheMechanicDoctor",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Effective",
+        "lastname": "Technician",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@EffectiveTechnician",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Bogi's",
+        "lastname": "Garage",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@BogisGarage",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "MasterTech",
+        "lastname": "Academy",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@MasterTechAcademy",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Auto Service",
+        "lastname": "Advisor",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@AutoServiceAdvisor",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Vocational",
+        "lastname": "Mechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@VocationalMechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Mechanic",
+        "lastname": "Lifestyle",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@MechanicLifestyle",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "BizToMechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@BizToMechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Apex Auto",
+        "lastname": "Repair",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ApexAutoRepair",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Real World Shop",
+        "lastname": "Owner",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@RealWorldShopOwner",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Service Writer",
+        "lastname": "Secrets",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@ServiceWriterSecrets",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Auto Repair Shop",
+        "lastname": "Talk",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@AutoRepairShopTalk",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Transparent",
+        "lastname": "Garage",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@TransparentGarage",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Mobile Mechanic",
+        "lastname": "Business",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@MobileMechanicBusiness",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "L1 Automotive",
+        "lastname": "Training",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@L1Automotive",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Car Repair & Tool",
+        "lastname": "Reviews",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@CarRepairToolReviews",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Mikey's",
+        "lastname": "Garage",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@MikeysGarage",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "OBD2",
+        "lastname": "Diagnostics",
+        "jobtitle": "Affiliate prospect",
+        "company": "Automotive creator",
+        "website": "https://www.youtube.com/@OBD2Diagnostics",
+        "lifecyclestage": "lead"
+      }
+    }
+  ]
+}

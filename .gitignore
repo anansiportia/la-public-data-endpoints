@@ -1,0 +1,17 @@
+# OpenClaw secrets/config (do not commit)
+**/openclaw.json
+**/.openclaw/**
+
+# Local temp / artifacts
+.DS_Store
+*.log
+*.tmp
+/tmp/
+
+# Node/Python
+node_modules/
+__pycache__/
+*.pyc
+
+# Large/derived exports
+*.zip

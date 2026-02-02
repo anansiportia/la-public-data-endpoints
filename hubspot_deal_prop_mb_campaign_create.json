@@ -1,0 +1,1 @@
+{"name":"mb_campaign","label":"MadnessBot Campaign","type":"enumeration","fieldType":"select","groupName":"dealinformation","options":[{"label":"Affiliate Recruiting","value":"affiliate_recruiting"},{"label":"End User Acquisition","value":"end_user_acquisition"}]}

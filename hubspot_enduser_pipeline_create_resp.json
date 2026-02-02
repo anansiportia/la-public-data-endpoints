@@ -1,0 +1,1 @@
+{"status":"error","message":"You have reached your limit of 2 deal pipelines.","correlationId":"30049168-cca4-4971-a098-de6da33f3d2d","context":{"maximum pipelines":["2"]},"category":"API_LIMIT"}

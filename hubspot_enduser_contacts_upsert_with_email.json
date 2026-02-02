@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    {
+      "idProperty": "email",
+      "id": "bmwvanc@gmail.com",
+      "properties": {
+        "email": "bmwvanc@gmail.com",
+        "firstname": "MADA Autosport",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://madaautosport.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "taller@citauto.es",
+      "properties": {
+        "email": "taller@citauto.es",
+        "firstname": "Citauto",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.citauto.es/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "info@autofficinadaytona.it",
+      "properties": {
+        "email": "info@autofficinadaytona.it",
+        "firstname": "Milano Autofficina (Autofficina Daytona)",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.milanoautofficina.it/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "idProperty": "email",
+      "id": "autodiagyt@gmail.com",
+      "properties": {
+        "email": "autodiagyt@gmail.com",
+        "firstname": "Automotive Diagnostics & Programming",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/channel/UC-7f3XJ_6SyedvqKSDmVFbA",
+        "lifecyclestage": "lead"
+      }
+    }
+  ]
+}

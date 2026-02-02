@@ -1,0 +1,704 @@
+{
+  "inputs": [
+    {
+      "properties": {
+        "dealname": "EndUser - Juke Auto",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Austin, TX, USA\nPrimary channel: Website contact form\nLinks: https://www.jukeauto.com/\nContact: Website contact page/form\nPitch: undefined\nNotes: General repair; strong local brand feel."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Hackney Auto",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Austin, TX, USA\nPrimary channel: Phone/Website\nLinks: https://www.hackneyauto.com/\nContact: Phone + website contact\nPitch: undefined\nNotes: Independent, South Austin."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Arbor Autoworks",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Austin, TX, USA\nPrimary channel: Online scheduling\nLinks: https://arborautoworks.com/\nContact: Schedule/Contact online\nPitch: undefined\nNotes: Mentions online scheduling."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Independent Nissan & Japanese Auto Repair",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Los Angeles, CA, USA\nPrimary channel: Website/Phone\nLinks: https://www.independentnissanlosangeles.com/ | https://www.independentnissanlosangeles.com/contactus.htm\nContact: Phone + website contact page\nPitch: undefined\nNotes: Specialty Japanese."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - JC's Auto Repair Shop",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Los Angeles, CA, USA\nPrimary channel: Website contact form\nLinks: https://www.autorepairshoplosangeles.com/ | https://www.autorepairshoplosangeles.com/contact\nContact: Website contact form\nPitch: undefined\nNotes: Has explicit contact page."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Delgado's Auto Service",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Chicago, IL, USA\nPrimary channel: Website contact form\nLinks: https://www.delgados.com/\nContact: Website contact form\nPitch: undefined\nNotes: Established shop."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - E & J Foreign Cars",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Chicago, IL, USA\nPrimary channel: Phone/Website\nLinks: https://www.eandj.com/about-us\nContact: Phone listed on site\nPitch: undefined\nNotes: Foreign car specialist."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Parkview Auto Repair & Body Shop",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Chicago, IL, USA\nPrimary channel: Phone/Website\nLinks: https://www.parkviewautochicago.com/\nContact: Phone + website contact\nPitch: undefined\nNotes: Full-service + body."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Gramenzi Auto Services",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Miami, FL, USA\nPrimary channel: Website/Phone\nLinks: https://www.gramenziautoservices.com/\nContact: Phone + online booking\nPitch: undefined\nNotes: Miami independent."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - The Car Clinic of Miami",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Miami, FL, USA\nPrimary channel: Website/Phone\nLinks: https://thecarclinicofmiami.com/\nContact: Phone + website contact\nPitch: undefined\nNotes: Voted best mechanic claim."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - European Autobahn Inc.",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Miami, FL, USA\nPrimary channel: Website/Phone\nLinks: https://www.mercedesautorepairmiami.com/\nContact: Phone + contact page\nPitch: undefined\nNotes: European specialist."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Downtown Automotive",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Seattle, WA, USA\nPrimary channel: Website contact form\nLinks: https://www.downtownautomotiveseattle.com/\nContact: Website contact/scheduling\nPitch: undefined\nNotes: Seattle."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - All Wheel Drive Auto",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Seattle Metro, WA, USA\nPrimary channel: Request-a-quote form\nLinks: https://allwheeldriveauto.com/\nContact: Request a Quote form + phone\nPitch: undefined\nNotes: Subaru/Toyota focus."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Everybody's Auto Service",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Seattle Metro, WA, USA\nPrimary channel: Phone/Website\nLinks: https://www.everybodysautoservice.com/auto-repair\nContact: Phone + website contact\nPitch: undefined\nNotes: Shoreline area."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Pawlik Automotive",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Vancouver, BC, Canada\nPrimary channel: Website/Phone\nLinks: https://pawlikautomotive.com/\nContact: Phone + website contact\nPitch: undefined\nNotes: Well-known Vancouver independent."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - MADA Autosport",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Vancouver, BC, Canada\nPrimary channel: Email/Phone\nLinks: https://madaautosport.com/\nContact: Email listed on site (bmwvanc@gmail.com)\nPitch: undefined\nNotes: BMW specialty; email published."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Trans-Mico Automotive",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Montreal, QC, Canada\nPrimary channel: Website contact page\nLinks: https://www.transmico.com/en/contact-mechanic-garage-pierrefonds/\nContact: Website contact page\nPitch: undefined\nNotes: Montreal area."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Garage Mario Barthold Inc.",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Montreal, QC, Canada\nPrimary channel: Phone/Website\nLinks: https://www.garagemario.mechanicnet.com/\nContact: Phone listed on site\nPitch: undefined\nNotes: MechanicNet site; still business-owned."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Daytona Garage",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: London, UK\nPrimary channel: Website contact\nLinks: https://www.daytonagarage.co.uk/\nContact: Website contact form\nPitch: undefined\nNotes: London garage."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Holland Park Autos (London) Ltd",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: London, UK\nPrimary channel: Website/Phone\nLinks: https://www.hollandpark-autos.co.uk/\nContact: Website contact + phone\nPitch: undefined\nNotes: West London."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - West London Auto Centre",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: London, UK\nPrimary channel: Phone/Website\nLinks: https://www.thegaragelondon.com/\nContact: Phone + online contact form\nPitch: undefined\nNotes: West Kensington."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Sydney Car Repairs",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Sydney, NSW, Australia\nPrimary channel: Website contact\nLinks: https://sydneycarrepair.com.au/\nContact: Website contact form\nPitch: undefined\nNotes: Sydney."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Xclusive Automotive",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Sydney, NSW, Australia\nPrimary channel: Phone/Website\nLinks: https://www.xclusiveauto.com.au/\nContact: Phone + website contact\nPitch: undefined\nNotes: Sydney metro."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - A.D.R. Auto-Dienst GmbH",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Berlin, Germany\nPrimary channel: Website contact\nLinks: https://www.adr-berlin.de/\nContact: Kontakt page on website\nPitch: undefined\nNotes: Berlin."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - C&N Automotive Service GmbH",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Berlin, Germany\nPrimary channel: Phone/Website\nLinks: https://www.auto-werkstatt-berlin.de/\nContact: Phone + website contact\nPitch: undefined\nNotes: Freie Werkstatt."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Pinguin Werkstatt",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Berlin, Germany\nPrimary channel: Phone/Website\nLinks: https://pinguin-werkstatt.com\nContact: Phone + website contact\nPitch: undefined\nNotes: Berlin Wilmersdorf."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - AK Garage Paris",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Paris, France\nPrimary channel: Website contact\nLinks: https://ak-garage.com/\nContact: Website contact\nPitch: undefined\nNotes: Paris 20 / Les Lilas area."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Taller Madrid",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Madrid, Spain\nPrimary channel: Email/Phone\nLinks: https://www.taller-madrid.es/\nContact: Email published on site + phone\nPitch: undefined\nNotes: Email appears on site."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Taller Barcelona",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Barcelona, Spain\nPrimary channel: Email/Phone\nLinks: https://www.tallerbarcelona.com/\nContact: Email published on site + phone\nPitch: undefined\nNotes: Email appears on site."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Citauto",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Barcelona, Spain\nPrimary channel: Email/Phone\nLinks: https://www.citauto.es/\nContact: Email listed (taller@citauto.es)\nPitch: undefined\nNotes: Has published email."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Autofficina Sottile",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Milan, Italy\nPrimary channel: Website contact\nLinks: https://www.autofficinasottile.com/ | https://www.autofficinasottile.com/contatti\nContact: Phone + contatti page\nPitch: undefined\nNotes: Milan."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Milano Autofficina (Autofficina Daytona)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Milan, Italy\nPrimary channel: Email/Phone\nLinks: https://www.milanoautofficina.it/\nContact: Email published: info@autofficinadaytona.it\nPitch: undefined\nNotes: Published email on site."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Power Service (Centro de Servicio Automotriz)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Mexico City, Mexico\nPrimary channel: Website contact\nLinks: https://www.powerservice.com.mx/\nContact: Website contact / branch contact\nPitch: undefined\nNotes: Has multiple locations; still end-user."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Robertsham Service Centre",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Johannesburg, South Africa\nPrimary channel: Website/Phone\nLinks: https://robertshamservicecentre.co.za/\nContact: Phone + website contact\nPitch: undefined\nNotes: Mentions mobile mechanic keywords."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Kismet Mechanical",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Mobile Mechanic\nRegion: Sydney, NSW, Australia\nPrimary channel: Phone/Website\nLinks: https://www.kismetmechanical.com.au/\nContact: Phone + website booking/contact\nPitch: undefined\nNotes: Mobile mechanic service."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Autocure Mobile Mechanics",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Mobile Mechanic\nRegion: Sydney, NSW, Australia\nPrimary channel: Phone/Website\nLinks: https://www.autocuremobilemechanics.com.au/\nContact: Phone + website contact\nPitch: undefined\nNotes: Sydney."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Mobile Mechanic Pros of Denver",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Mobile Mechanic\nRegion: Denver, CO, USA\nPrimary channel: Website contact form\nLinks: https://www.mobilemechanicprosofdenver.com/\nContact: Website contact form\nPitch: undefined\nNotes: Denver."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Mobile Mechanic 4 Denver",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Mobile Mechanic\nRegion: Denver, CO, USA\nPrimary channel: Website/Phone\nLinks: https://mobilemechanic4denver.com/\nContact: Phone + contact\nPitch: undefined\nNotes: Denver."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - MobileMechanic.london",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Mobile Mechanic\nRegion: London, UK\nPrimary channel: Phone/Website\nLinks: https://mobilemechanic.london/\nContact: Phone + website contact\nPitch: undefined\nNotes: London."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - MobileMechanic247",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Mobile Mechanic\nRegion: London, UK\nPrimary channel: Phone/Website\nLinks: https://mobilemechanic247.co.uk/\nContact: Phone + website contact\nPitch: undefined\nNotes: London."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Michanic (Johannesburg South)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Mobile Mechanic\nRegion: Johannesburg, South Africa\nPrimary channel: Website booking\nLinks: https://www.michanic.co.za/locations/city-of-johannesburg-metropolitan-municipality/johannesburg-south/\nContact: Online booking/contact\nPitch: undefined\nNotes: Platform that connects mechanics; has public booking."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - ACE Mobile Mechanics",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Mobile Mechanic\nRegion: Denver, CO, USA\nPrimary channel: Website/Phone\nLinks: https://mobilemechanicdenverco.com/\nContact: Phone + website contact\nPitch: undefined\nNotes: Denver."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Auto Certified Mobile Mechanic",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Mobile Mechanic\nRegion: Sydney, NSW, Australia\nPrimary channel: Website contact form\nLinks: https://www.autocertifiedmobilemechanic.com/contact\nContact: Website contact form\nPitch: undefined\nNotes: Explicit contact page."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Denver Mobile Mechanic",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Mobile Mechanic\nRegion: Denver, CO, USA\nPrimary channel: Website contact\nLinks: https://denvermobilemechanic.net/\nContact: Website contact\nPitch: undefined\nNotes: Denver."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - South Main Auto Repair",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Avon, NY (Rochester Metro), USA\nPrimary channel: Website/YouTube\nLinks: https://www.southmainautorepair.com/\nContact: Website contact\nPitch: undefined\nNotes: Also strong YouTube presence; still a repair shop."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Pine Hollow Auto Diagnostics",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: E. Longmeadow, MA (Springfield Metro), USA\nPrimary channel: Website\nLinks: https://pinehollowdiagnostics.com/\nContact: Website contact\nPitch: undefined\nNotes: Diagnostics-focused shop."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Humble Mechanic (shop contact via site)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Chicago, IL, USA\nPrimary channel: Website\nLinks: https://www.humblemechanic.com/\nContact: Website contact\nPitch: undefined\nNotes: Also educator; keep as shop/brand."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Fifth Gear Automotive",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: San Diego, CA, USA\nPrimary channel: Website\nLinks: https://fifthgearauto.com/\nContact: Website contact\nPitch: undefined\nNotes: Independent shop."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - The Garage (Napa AutoCare) - example local",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Denver, CO, USA\nPrimary channel: Website\nLinks: https://www.thegaragedenver.com/\nContact: Website contact\nPitch: undefined\nNotes: Denver independent (verify before outreach)."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Luschek's Automotive",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Phoenix, AZ, USA\nPrimary channel: Website\nLinks: https://www.luscheksauto.com/\nContact: Website contact\nPitch: undefined\nNotes: Phoenix."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Choice Auto Repair",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Houston, TX, USA\nPrimary channel: Website\nLinks: https://www.choiceautorepair.com/\nContact: Website contact\nPitch: undefined\nNotes: Houston."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Matt's Automotive Service Center",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Portland, OR, USA\nPrimary channel: Website\nLinks: https://mattsautomotive.com/\nContact: Website contact\nPitch: undefined\nNotes: Portland."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Lindbergh Automotive",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Atlanta, GA, USA\nPrimary channel: Website\nLinks: https://www.lindberghautomotive.com/\nContact: Website contact\nPitch: undefined\nNotes: Atlanta."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Japanese Auto Repair Specialist - Precision Auto",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: San Jose, CA, USA\nPrimary channel: Website\nLinks: https://www.precisionautocaresj.com/\nContact: Website contact\nPitch: undefined\nNotes: Bay Area."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Fountain Tire (independent franchise) - avoid?",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Calgary, AB, Canada\nPrimary channel: Website\nLinks: https://www.fountaintire.com/\nContact: Website contact\nPitch: undefined\nNotes: Note: franchise; replace if strict independence required."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Manchester Auto Repairs (example)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Manchester, UK\nPrimary channel: Website\nLinks: https://www.manchesterautorepairs.co.uk/\nContact: Website contact\nPitch: undefined\nNotes: Verify independence and contact page before outreach."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Birmingham Auto Centre (example)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Birmingham, UK\nPrimary channel: Website\nLinks: https://www.birminghamautocentre.co.uk/\nContact: Website contact\nPitch: undefined\nNotes: Verify details before outreach."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Oficina Mecânica High Torque (São Paulo)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: São Paulo, Brazil\nPrimary channel: Website\nLinks: https://www.hightorque.com.br/\nContact: Website contact\nPitch: undefined\nNotes: High Torque is also media; ensure targeting shop operations."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Garage Works (Bangalore)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Bengaluru, India\nPrimary channel: Website\nLinks: https://garageworks.in/\nContact: Website contact\nPitch: undefined\nNotes: Multi-location; still end-user service provider."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - GoMechanic (Mumbai)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Mumbai, India\nPrimary channel: Website\nLinks: https://gomechanic.in/\nContact: Website booking/contact\nPitch: undefined\nNotes: Aggregator; use only if campaigns include aggregators."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Tech One Automotive",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Austin, TX, USA\nPrimary channel: Website\nLinks: https://www.techoneauto.com/\nContact: Website contact\nPitch: undefined\nNotes: Family-owned, since 1999."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Terry Sayther Automotive",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Independent Repair Shop\nRegion: Austin, TX, USA\nPrimary channel: Website\nLinks: https://www.terrysaytherauto.com/\nContact: Website contact\nPitch: undefined\nNotes: BMW/Mini focus."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Automotive Diagnostics & Programming",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: Published email\nLinks: https://www.youtube.com/channel/UC-7f3XJ_6SyedvqKSDmVFbA\nContact: Email: AutoDiagYT@gmail.com (as shown on channel page)\nPitch: undefined\nNotes: Channel explicitly lists contact email."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - ScannerDanner",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube/Training)\nRegion: USA (Online)\nPrimary channel: Website contact\nLinks: https://www.scannerdanner.com/ | https://www.youtube.com/@ScannerDanner\nContact: Website contact / premium site\nPitch: undefined\nNotes: Well-known diagnostics educator."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Pine Hollow Auto Diagnostics (YouTube)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: Website/YouTube\nLinks: https://www.youtube.com/@PineHollowAutoDiagnostics | https://pinehollowdiagnostics.com/\nContact: Website contact\nPitch: undefined\nNotes: Also a shop."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - South Main Auto Repair LLC (YouTube)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: Website/YouTube\nLinks: https://www.youtube.com/@SouthMainAuto | https://www.southmainautorepair.com/\nContact: Website contact\nPitch: undefined\nNotes: Very large audience."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Humble Mechanic (YouTube)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: Website contact\nLinks: https://www.youtube.com/@HumbleMechanic | https://www.humblemechanic.com/\nContact: Website contact\nPitch: undefined\nNotes: Tech-to-shop-owner content."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - EricTheCarGuy",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: Website contact\nLinks: https://www.youtube.com/@EricTheCarGuy | https://www.ericthecarguy.com/\nContact: Website contact\nPitch: undefined\nNotes: Large channel; broader audience."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - DiagnoseDan (example: L1 Automotive Training)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/channel/UCnxjq88ipUjDkfhcOjpV7Gw\nContact: YouTube About contact links\nPitch: undefined\nNotes: Keith, mobile diag tech."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Trained by Techs",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@trainedbytechs\nContact: YouTube About contact links\nPitch: undefined\nNotes: Industry conversation channel."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - The Practical Mechanic",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@ThePracticalMechanic\nContact: YouTube About contact links\nPitch: undefined\nNotes: General tech advice."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - WatchJRGo",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Creator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@WatchJRGo\nContact: YouTube About contact links\nPitch: undefined\nNotes: Automotive creator; mixed content."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Rainman Ray's Repairs",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@RainmanRaysRepairs\nContact: YouTube About contact links\nPitch: undefined\nNotes: Shop-based content."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Schrodi's Diagnostic Solutions",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@SchrodisDiagnosticSolutions\nContact: YouTube About contact links\nPitch: undefined\nNotes: Diagnostics focused."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - iATN (International Automotive Technicians Network)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Community/Educator\nRegion: Global (Online)\nPrimary channel: Website contact\nLinks: https://www.iatn.net/\nContact: Website contact\nPitch: undefined\nNotes: Community, not a person."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - A1 Auto",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: Website/YouTube\nLinks: https://www.youtube.com/@A1Auto | https://www.1aauto.com/\nContact: Website contact\nPitch: undefined\nNotes: Parts + how-to; semi-corporate."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - The Car Care Nut",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@TheCarCareNut\nContact: YouTube About contact links\nPitch: undefined\nNotes: Popular Toyota-focused."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - MotorAge Magazine / Training",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator\nRegion: USA (Online)\nPrimary channel: Website contact\nLinks: https://www.motorage.com/\nContact: Website contact\nPitch: undefined\nNotes: Publication."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - AVI OnDemand",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Training\nRegion: USA (Online)\nPrimary channel: Website contact\nLinks: https://www.aviondemand.com/\nContact: Website contact\nPitch: undefined\nNotes: Training provider."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - AESwave",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Tools/Educator\nRegion: USA (Online)\nPrimary channel: Website contact\nLinks: https://www.aeswave.com/\nContact: Website contact\nPitch: undefined\nNotes: Tools + education."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - ETCG1 (EricTheCarGuy 2nd channel)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@etgc1\nContact: YouTube About contact links\nPitch: undefined\nNotes: Secondary channel."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - ATG (Auto Training Group) - YouTube",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Training\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@AutoTrainingGroup\nContact: YouTube About contact links\nPitch: undefined\nNotes: Training org."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Car Wizard",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Creator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@CarWizard\nContact: YouTube About contact links\nPitch: undefined\nNotes: Independent shop creator."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Tavarish (auto projects)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Creator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@tavarish\nContact: YouTube About contact links\nPitch: undefined\nNotes: Project channel."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Donut Media (shop audience)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Creator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@Donut\nContact: YouTube About contact links\nPitch: undefined\nNotes: Large media; not tech-only."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Engineering Explained (auto) पटक",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Creator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@EngineeringExplained\nContact: YouTube About contact links\nPitch: undefined\nNotes: Not a working tech channel; optional."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - AutoFixPal",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician/Business (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@AutoFixPal\nContact: YouTube About contact links\nPitch: undefined\nNotes: Verify target fit."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Auto Education Academy",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Training (YouTube)\nRegion: Global (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@AutoEducationAcademy\nContact: YouTube About contact links\nPitch: undefined\nNotes: Verify contact."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Garage Gurus (Tech training)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Training\nRegion: USA/EU (Online)\nPrimary channel: Website contact\nLinks: https://www.garagegurus.tech/\nContact: Website contact\nPitch: undefined\nNotes: Training site."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Bosch Automotive Training Solutions",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Training\nRegion: Global\nPrimary channel: Website contact\nLinks: https://automotiveaftermarket.bosch.com/\nContact: Website contact\nPitch: undefined\nNotes: Corporate."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Snap-on Training Solutions (YouTube)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Training\nRegion: Global\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@SnaponTrainingSolutions\nContact: YouTube About contact links\nPitch: undefined\nNotes: Corporate channel."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Autel Official",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Training\nRegion: Global\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@Auteltech\nContact: YouTube About contact links\nPitch: undefined\nNotes: Corporate channel."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - FordTechMakuloco",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@FordTechMakuloco\nContact: YouTube About contact links\nPitch: undefined\nNotes: Ford diagnostic/repair training."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - I Do Cars",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Creator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@IDoCars\nContact: YouTube About contact links\nPitch: undefined\nNotes: Engine tear-downs; large audience."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - TST SEMINARS",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Training (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@TSTseminars\nContact: YouTube About contact links\nPitch: undefined\nNotes: Transmission-focused education."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - WeberAuto (John D. Kelly)",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@WeberAuto\nContact: YouTube About contact links\nPitch: undefined\nNotes: Hybrid/EV training content."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - DiagnoseDan",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@DiagnoseDan\nContact: YouTube About contact links\nPitch: undefined\nNotes: Diagnostic educator."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Car Care Kiosk",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@CarCareKiosk\nContact: YouTube About contact links\nPitch: undefined\nNotes: DIY leaning; optional."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - Faye Hadley",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@FayeHadley\nContact: YouTube About contact links\nPitch: undefined\nNotes: Mechanic educator."
+      }
+    },
+    {
+      "properties": {
+        "dealname": "EndUser - The Flat Rate Master",
+        "amount": "0",
+        "description": "Campaign: End User (Tech Acquisition)\nType: Technician Educator (YouTube)\nRegion: USA (Online)\nPrimary channel: YouTube/About\nLinks: https://www.youtube.com/@TheFlatRateMaster\nContact: YouTube About contact links\nPitch: undefined\nNotes: Working tech/shop content."
+      }
+    }
+  ]
+}

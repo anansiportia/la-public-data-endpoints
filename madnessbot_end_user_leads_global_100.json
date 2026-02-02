@@ -1,0 +1,1311 @@
+[
+  {
+    "Tier": "A",
+    "Name": "Juke Auto",
+    "Type": "Independent Repair Shop",
+    "Region": "Austin, TX, USA",
+    "Primary Channel": "Website contact form",
+    "Links": [
+      "https://www.jukeauto.com/"
+    ],
+    "Contact": "Website contact page/form",
+    "Pitch angle / CTA": "Offer a quick demo: automate service reminders + capture leads from web/chat.",
+    "Notes": "General repair; strong local brand feel."
+  },
+  {
+    "Tier": "A",
+    "Name": "Hackney Auto",
+    "Type": "Independent Repair Shop",
+    "Region": "Austin, TX, USA",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://www.hackneyauto.com/"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Reduce missed calls: text-first estimates + status updates.",
+    "Notes": "Independent, South Austin."
+  },
+  {
+    "Tier": "A",
+    "Name": "Arbor Autoworks",
+    "Type": "Independent Repair Shop",
+    "Region": "Austin, TX, USA",
+    "Primary Channel": "Online scheduling",
+    "Links": [
+      "https://arborautoworks.com/"
+    ],
+    "Contact": "Schedule/Contact online",
+    "Pitch angle / CTA": "Convert web visitors into booked diagnostics with frictionless intake.",
+    "Notes": "Mentions online scheduling."
+  },
+  {
+    "Tier": "A",
+    "Name": "Independent Nissan & Japanese Auto Repair",
+    "Type": "Independent Repair Shop",
+    "Region": "Los Angeles, CA, USA",
+    "Primary Channel": "Website/Phone",
+    "Links": [
+      "https://www.independentnissanlosangeles.com/",
+      "https://www.independentnissanlosangeles.com/contactus.htm"
+    ],
+    "Contact": "Phone + website contact page",
+    "Pitch angle / CTA": "Turn Google/website clicks into booked repair via instant estimate capture.",
+    "Notes": "Specialty Japanese."
+  },
+  {
+    "Tier": "B",
+    "Name": "JC's Auto Repair Shop",
+    "Type": "Independent Repair Shop",
+    "Region": "Los Angeles, CA, USA",
+    "Primary Channel": "Website contact form",
+    "Links": [
+      "https://www.autorepairshoplosangeles.com/",
+      "https://www.autorepairshoplosangeles.com/contact"
+    ],
+    "Contact": "Website contact form",
+    "Pitch angle / CTA": "Improve customer comms: two-way SMS + automated approvals.",
+    "Notes": "Has explicit contact page."
+  },
+  {
+    "Tier": "A",
+    "Name": "Delgado's Auto Service",
+    "Type": "Independent Repair Shop",
+    "Region": "Chicago, IL, USA",
+    "Primary Channel": "Website contact form",
+    "Links": [
+      "https://www.delgados.com/"
+    ],
+    "Contact": "Website contact form",
+    "Pitch angle / CTA": "Add digital inspections + automated follow-ups for declined work.",
+    "Notes": "Established shop."
+  },
+  {
+    "Tier": "B",
+    "Name": "E & J Foreign Cars",
+    "Type": "Independent Repair Shop",
+    "Region": "Chicago, IL, USA",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://www.eandj.com/about-us"
+    ],
+    "Contact": "Phone listed on site",
+    "Pitch angle / CTA": "Capture leads after-hours with web-to-text intake.",
+    "Notes": "Foreign car specialist."
+  },
+  {
+    "Tier": "B",
+    "Name": "Parkview Auto Repair & Body Shop",
+    "Type": "Independent Repair Shop",
+    "Region": "Chicago, IL, USA",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://www.parkviewautochicago.com/"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Reduce time to authorize work with mobile approvals.",
+    "Notes": "Full-service + body."
+  },
+  {
+    "Tier": "B",
+    "Name": "Gramenzi Auto Services",
+    "Type": "Independent Repair Shop",
+    "Region": "Miami, FL, USA",
+    "Primary Channel": "Website/Phone",
+    "Links": [
+      "https://www.gramenziautoservices.com/"
+    ],
+    "Contact": "Phone + online booking",
+    "Pitch angle / CTA": "Increase repeat business via service reminders + seasonal promos.",
+    "Notes": "Miami independent."
+  },
+  {
+    "Tier": "B",
+    "Name": "The Car Clinic of Miami",
+    "Type": "Independent Repair Shop",
+    "Region": "Miami, FL, USA",
+    "Primary Channel": "Website/Phone",
+    "Links": [
+      "https://thecarclinicofmiami.com/"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Centralize calls, texts, and web leads in one pipeline.",
+    "Notes": "Voted best mechanic claim."
+  },
+  {
+    "Tier": "B",
+    "Name": "European Autobahn Inc.",
+    "Type": "Independent Repair Shop",
+    "Region": "Miami, FL, USA",
+    "Primary Channel": "Website/Phone",
+    "Links": [
+      "https://www.mercedesautorepairmiami.com/"
+    ],
+    "Contact": "Phone + contact page",
+    "Pitch angle / CTA": "Upsell diagnostics packages; streamline scheduling and follow-ups.",
+    "Notes": "European specialist."
+  },
+  {
+    "Tier": "B",
+    "Name": "Downtown Automotive",
+    "Type": "Independent Repair Shop",
+    "Region": "Seattle, WA, USA",
+    "Primary Channel": "Website contact form",
+    "Links": [
+      "https://www.downtownautomotiveseattle.com/"
+    ],
+    "Contact": "Website contact/scheduling",
+    "Pitch angle / CTA": "Turn website traffic into appointments with instant intake.",
+    "Notes": "Seattle."
+  },
+  {
+    "Tier": "B",
+    "Name": "All Wheel Drive Auto",
+    "Type": "Independent Repair Shop",
+    "Region": "Seattle Metro, WA, USA",
+    "Primary Channel": "Request-a-quote form",
+    "Links": [
+      "https://allwheeldriveauto.com/"
+    ],
+    "Contact": "Request a Quote form + phone",
+    "Pitch angle / CTA": "Reduce back-and-forth quoting; send structured estimate requests.",
+    "Notes": "Subaru/Toyota focus."
+  },
+  {
+    "Tier": "B",
+    "Name": "Everybody's Auto Service",
+    "Type": "Independent Repair Shop",
+    "Region": "Seattle Metro, WA, USA",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://www.everybodysautoservice.com/auto-repair"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Automate status updates to cut inbound calls.",
+    "Notes": "Shoreline area."
+  },
+  {
+    "Tier": "A",
+    "Name": "Pawlik Automotive",
+    "Type": "Independent Repair Shop",
+    "Region": "Vancouver, BC, Canada",
+    "Primary Channel": "Website/Phone",
+    "Links": [
+      "https://pawlikautomotive.com/"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Offer a pilot: better follow-up on quotes + reminders.",
+    "Notes": "Well-known Vancouver independent."
+  },
+  {
+    "Tier": "B",
+    "Name": "MADA Autosport",
+    "Type": "Independent Repair Shop",
+    "Region": "Vancouver, BC, Canada",
+    "Primary Channel": "Email/Phone",
+    "Links": [
+      "https://madaautosport.com/"
+    ],
+    "Contact": "Email listed on site (bmwvanc@gmail.com)",
+    "Pitch angle / CTA": "Improve lead capture from specialty BMW owners; streamline approvals.",
+    "Notes": "BMW specialty; email published."
+  },
+  {
+    "Tier": "B",
+    "Name": "Trans-Mico Automotive",
+    "Type": "Independent Repair Shop",
+    "Region": "Montreal, QC, Canada",
+    "Primary Channel": "Website contact page",
+    "Links": [
+      "https://www.transmico.com/en/contact-mechanic-garage-pierrefonds/"
+    ],
+    "Contact": "Website contact page",
+    "Pitch angle / CTA": "Automate appointment requests and post-visit review requests.",
+    "Notes": "Montreal area."
+  },
+  {
+    "Tier": "C",
+    "Name": "Garage Mario Barthold Inc.",
+    "Type": "Independent Repair Shop",
+    "Region": "Montreal, QC, Canada",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://www.garagemario.mechanicnet.com/"
+    ],
+    "Contact": "Phone listed on site",
+    "Pitch angle / CTA": "Simple win: convert more calls into booked slots with SMS confirmations.",
+    "Notes": "MechanicNet site; still business-owned."
+  },
+  {
+    "Tier": "B",
+    "Name": "Daytona Garage",
+    "Type": "Independent Repair Shop",
+    "Region": "London, UK",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.daytonagarage.co.uk/"
+    ],
+    "Contact": "Website contact form",
+    "Pitch angle / CTA": "Offer a UK-ready workflow: reminders + messaging + approvals.",
+    "Notes": "London garage."
+  },
+  {
+    "Tier": "B",
+    "Name": "Holland Park Autos (London) Ltd",
+    "Type": "Independent Repair Shop",
+    "Region": "London, UK",
+    "Primary Channel": "Website/Phone",
+    "Links": [
+      "https://www.hollandpark-autos.co.uk/"
+    ],
+    "Contact": "Website contact + phone",
+    "Pitch angle / CTA": "Reduce admin time: intake forms + automated updates.",
+    "Notes": "West London."
+  },
+  {
+    "Tier": "B",
+    "Name": "West London Auto Centre",
+    "Type": "Independent Repair Shop",
+    "Region": "London, UK",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://www.thegaragelondon.com/"
+    ],
+    "Contact": "Phone + online contact form",
+    "Pitch angle / CTA": "Turn MOT/service enquiries into booked work with structured web intake.",
+    "Notes": "West Kensington."
+  },
+  {
+    "Tier": "B",
+    "Name": "Sydney Car Repairs",
+    "Type": "Independent Repair Shop",
+    "Region": "Sydney, NSW, Australia",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://sydneycarrepair.com.au/"
+    ],
+    "Contact": "Website contact form",
+    "Pitch angle / CTA": "Boost bookings: web-to-SMS lead capture + automated follow-ups.",
+    "Notes": "Sydney."
+  },
+  {
+    "Tier": "B",
+    "Name": "Xclusive Automotive",
+    "Type": "Independent Repair Shop",
+    "Region": "Sydney, NSW, Australia",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://www.xclusiveauto.com.au/"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Cut phone tag: instant estimate requests and booking confirmations.",
+    "Notes": "Sydney metro."
+  },
+  {
+    "Tier": "B",
+    "Name": "A.D.R. Auto-Dienst GmbH",
+    "Type": "Independent Repair Shop",
+    "Region": "Berlin, Germany",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.adr-berlin.de/"
+    ],
+    "Contact": "Kontakt page on website",
+    "Pitch angle / CTA": "Digitize intake + approvals; reduce time on the phone.",
+    "Notes": "Berlin."
+  },
+  {
+    "Tier": "B",
+    "Name": "C&N Automotive Service GmbH",
+    "Type": "Independent Repair Shop",
+    "Region": "Berlin, Germany",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://www.auto-werkstatt-berlin.de/"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Offer a pilot focused on diagnostics intake + job status updates.",
+    "Notes": "Freie Werkstatt."
+  },
+  {
+    "Tier": "C",
+    "Name": "Pinguin Werkstatt",
+    "Type": "Independent Repair Shop",
+    "Region": "Berlin, Germany",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://pinguin-werkstatt.com"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Automate appointment reminders and post-service review requests.",
+    "Notes": "Berlin Wilmersdorf."
+  },
+  {
+    "Tier": "B",
+    "Name": "AK Garage Paris",
+    "Type": "Independent Repair Shop",
+    "Region": "Paris, France",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://ak-garage.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Streamline booking and customer updates; reduce admin load.",
+    "Notes": "Paris 20 / Les Lilas area."
+  },
+  {
+    "Tier": "B",
+    "Name": "Taller Madrid",
+    "Type": "Independent Repair Shop",
+    "Region": "Madrid, Spain",
+    "Primary Channel": "Email/Phone",
+    "Links": [
+      "https://www.taller-madrid.es/"
+    ],
+    "Contact": "Email published on site + phone",
+    "Pitch angle / CTA": "Automate quote follow-ups in Spanish; convert more enquiries.",
+    "Notes": "Email appears on site."
+  },
+  {
+    "Tier": "B",
+    "Name": "Taller Barcelona",
+    "Type": "Independent Repair Shop",
+    "Region": "Barcelona, Spain",
+    "Primary Channel": "Email/Phone",
+    "Links": [
+      "https://www.tallerbarcelona.com/"
+    ],
+    "Contact": "Email published on site + phone",
+    "Pitch angle / CTA": "Improve lead response speed via automated WhatsApp/SMS style replies.",
+    "Notes": "Email appears on site."
+  },
+  {
+    "Tier": "B",
+    "Name": "Citauto",
+    "Type": "Independent Repair Shop",
+    "Region": "Barcelona, Spain",
+    "Primary Channel": "Email/Phone",
+    "Links": [
+      "https://www.citauto.es/"
+    ],
+    "Contact": "Email listed (taller@citauto.es)",
+    "Pitch angle / CTA": "Digitize inspections and approvals to increase ARO.",
+    "Notes": "Has published email."
+  },
+  {
+    "Tier": "B",
+    "Name": "Autofficina Sottile",
+    "Type": "Independent Repair Shop",
+    "Region": "Milan, Italy",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.autofficinasottile.com/",
+      "https://www.autofficinasottile.com/contatti"
+    ],
+    "Contact": "Phone + contatti page",
+    "Pitch angle / CTA": "Reduce time-to-approval and improve customer communication.",
+    "Notes": "Milan."
+  },
+  {
+    "Tier": "B",
+    "Name": "Milano Autofficina (Autofficina Daytona)",
+    "Type": "Independent Repair Shop",
+    "Region": "Milan, Italy",
+    "Primary Channel": "Email/Phone",
+    "Links": [
+      "https://www.milanoautofficina.it/"
+    ],
+    "Contact": "Email published: info@autofficinadaytona.it",
+    "Pitch angle / CTA": "Offer a pilot: automate reminders + quote follow-ups.",
+    "Notes": "Published email on site."
+  },
+  {
+    "Tier": "B",
+    "Name": "Power Service (Centro de Servicio Automotriz)",
+    "Type": "Independent Repair Shop",
+    "Region": "Mexico City, Mexico",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.powerservice.com.mx/"
+    ],
+    "Contact": "Website contact / branch contact",
+    "Pitch angle / CTA": "Improve multi-branch lead capture; standardize intake.",
+    "Notes": "Has multiple locations; still end-user."
+  },
+  {
+    "Tier": "B",
+    "Name": "Robertsham Service Centre",
+    "Type": "Independent Repair Shop",
+    "Region": "Johannesburg, South Africa",
+    "Primary Channel": "Website/Phone",
+    "Links": [
+      "https://robertshamservicecentre.co.za/"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Automate booking requests and job updates for busy customers.",
+    "Notes": "Mentions mobile mechanic keywords."
+  },
+  {
+    "Tier": "B",
+    "Name": "Kismet Mechanical",
+    "Type": "Mobile Mechanic",
+    "Region": "Sydney, NSW, Australia",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://www.kismetmechanical.com.au/"
+    ],
+    "Contact": "Phone + website booking/contact",
+    "Pitch angle / CTA": "Pitch: capture roadside/urgent leads instantly; automate dispatch & updates.",
+    "Notes": "Mobile mechanic service."
+  },
+  {
+    "Tier": "B",
+    "Name": "Autocure Mobile Mechanics",
+    "Type": "Mobile Mechanic",
+    "Region": "Sydney, NSW, Australia",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://www.autocuremobilemechanics.com.au/"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Reduce missed calls; convert enquiries into booked on-site jobs.",
+    "Notes": "Sydney."
+  },
+  {
+    "Tier": "C",
+    "Name": "Mobile Mechanic Pros of Denver",
+    "Type": "Mobile Mechanic",
+    "Region": "Denver, CO, USA",
+    "Primary Channel": "Website contact form",
+    "Links": [
+      "https://www.mobilemechanicprosofdenver.com/"
+    ],
+    "Contact": "Website contact form",
+    "Pitch angle / CTA": "Automate quote capture + scheduling with location details.",
+    "Notes": "Denver."
+  },
+  {
+    "Tier": "C",
+    "Name": "Mobile Mechanic 4 Denver",
+    "Type": "Mobile Mechanic",
+    "Region": "Denver, CO, USA",
+    "Primary Channel": "Website/Phone",
+    "Links": [
+      "https://mobilemechanic4denver.com/"
+    ],
+    "Contact": "Phone + contact",
+    "Pitch angle / CTA": "Fast follow-up workflow for mobile jobs; reduce admin.",
+    "Notes": "Denver."
+  },
+  {
+    "Tier": "C",
+    "Name": "MobileMechanic.london",
+    "Type": "Mobile Mechanic",
+    "Region": "London, UK",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://mobilemechanic.london/"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Instant web-to-text intake; keep customer updated on ETA.",
+    "Notes": "London."
+  },
+  {
+    "Tier": "C",
+    "Name": "MobileMechanic247",
+    "Type": "Mobile Mechanic",
+    "Region": "London, UK",
+    "Primary Channel": "Phone/Website",
+    "Links": [
+      "https://mobilemechanic247.co.uk/"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Automate booking confirmations & status texts.",
+    "Notes": "London."
+  },
+  {
+    "Tier": "C",
+    "Name": "Michanic (Johannesburg South)",
+    "Type": "Mobile Mechanic",
+    "Region": "Johannesburg, South Africa",
+    "Primary Channel": "Website booking",
+    "Links": [
+      "https://www.michanic.co.za/locations/city-of-johannesburg-metropolitan-municipality/johannesburg-south/"
+    ],
+    "Contact": "Online booking/contact",
+    "Pitch angle / CTA": "Partner pitch: improve conversion from quote to booked job.",
+    "Notes": "Platform that connects mechanics; has public booking."
+  },
+  {
+    "Tier": "C",
+    "Name": "ACE Mobile Mechanics",
+    "Type": "Mobile Mechanic",
+    "Region": "Denver, CO, USA",
+    "Primary Channel": "Website/Phone",
+    "Links": [
+      "https://mobilemechanicdenverco.com/"
+    ],
+    "Contact": "Phone + website contact",
+    "Pitch angle / CTA": "Automate intake forms + text approvals for on-site repairs.",
+    "Notes": "Denver."
+  },
+  {
+    "Tier": "C",
+    "Name": "Auto Certified Mobile Mechanic",
+    "Type": "Mobile Mechanic",
+    "Region": "Sydney, NSW, Australia",
+    "Primary Channel": "Website contact form",
+    "Links": [
+      "https://www.autocertifiedmobilemechanic.com/contact"
+    ],
+    "Contact": "Website contact form",
+    "Pitch angle / CTA": "Lead capture + dispatch workflow for mobile techs.",
+    "Notes": "Explicit contact page."
+  },
+  {
+    "Tier": "C",
+    "Name": "Denver Mobile Mechanic",
+    "Type": "Mobile Mechanic",
+    "Region": "Denver, CO, USA",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://denvermobilemechanic.net/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Automate after-hours enquiry capture.",
+    "Notes": "Denver."
+  },
+  {
+    "Tier": "A",
+    "Name": "South Main Auto Repair",
+    "Type": "Independent Repair Shop",
+    "Region": "Avon, NY (Rochester Metro), USA",
+    "Primary Channel": "Website/YouTube",
+    "Links": [
+      "https://www.southmainautorepair.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Pitch: shop-owner friendly automation + follow-ups; offer a 14-day trial.",
+    "Notes": "Also strong YouTube presence; still a repair shop."
+  },
+  {
+    "Tier": "A",
+    "Name": "Pine Hollow Auto Diagnostics",
+    "Type": "Independent Repair Shop",
+    "Region": "E. Longmeadow, MA (Springfield Metro), USA",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://pinehollowdiagnostics.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Pitch: diagnostic-heavy workflows + customer education via automated updates.",
+    "Notes": "Diagnostics-focused shop."
+  },
+  {
+    "Tier": "B",
+    "Name": "Humble Mechanic (shop contact via site)",
+    "Type": "Independent Repair Shop",
+    "Region": "Chicago, IL, USA",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.humblemechanic.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Cross-sell: content-driven customer acquisition + booking pipeline.",
+    "Notes": "Also educator; keep as shop/brand."
+  },
+  {
+    "Tier": "B",
+    "Name": "Fifth Gear Automotive",
+    "Type": "Independent Repair Shop",
+    "Region": "San Diego, CA, USA",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://fifthgearauto.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Increase booking rate with instant answers + SMS follow-up.",
+    "Notes": "Independent shop."
+  },
+  {
+    "Tier": "B",
+    "Name": "The Garage (Napa AutoCare) - example local",
+    "Type": "Independent Repair Shop",
+    "Region": "Denver, CO, USA",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.thegaragedenver.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Digitize inspections/approvals; automate reminders.",
+    "Notes": "Denver independent (verify before outreach)."
+  },
+  {
+    "Tier": "B",
+    "Name": "Luschek's Automotive",
+    "Type": "Independent Repair Shop",
+    "Region": "Phoenix, AZ, USA",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.luscheksauto.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Offer a pilot to reduce phone load and increase repeat visits.",
+    "Notes": "Phoenix."
+  },
+  {
+    "Tier": "B",
+    "Name": "Choice Auto Repair",
+    "Type": "Independent Repair Shop",
+    "Region": "Houston, TX, USA",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.choiceautorepair.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Automate quote follow-up; capture leads from website.",
+    "Notes": "Houston."
+  },
+  {
+    "Tier": "B",
+    "Name": "Matt's Automotive Service Center",
+    "Type": "Independent Repair Shop",
+    "Region": "Portland, OR, USA",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://mattsautomotive.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Reduce admin time with digital intake + automated updates.",
+    "Notes": "Portland."
+  },
+  {
+    "Tier": "B",
+    "Name": "Lindbergh Automotive",
+    "Type": "Independent Repair Shop",
+    "Region": "Atlanta, GA, USA",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.lindberghautomotive.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Boost reviews + repeat business through automated follow-ups.",
+    "Notes": "Atlanta."
+  },
+  {
+    "Tier": "B",
+    "Name": "Japanese Auto Repair Specialist - Precision Auto",
+    "Type": "Independent Repair Shop",
+    "Region": "San Jose, CA, USA",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.precisionautocaresj.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Capture online enquiries; convert to appointments.",
+    "Notes": "Bay Area."
+  },
+  {
+    "Tier": "B",
+    "Name": "Fountain Tire (independent franchise) - avoid?",
+    "Type": "Independent Repair Shop",
+    "Region": "Calgary, AB, Canada",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.fountaintire.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "(Skip if you want only single-location independents).",
+    "Notes": "Note: franchise; replace if strict independence required."
+  },
+  {
+    "Tier": "B",
+    "Name": "Manchester Auto Repairs (example)",
+    "Type": "Independent Repair Shop",
+    "Region": "Manchester, UK",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.manchesterautorepairs.co.uk/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Automate booking confirmations and estimate approvals.",
+    "Notes": "Verify independence and contact page before outreach."
+  },
+  {
+    "Tier": "B",
+    "Name": "Birmingham Auto Centre (example)",
+    "Type": "Independent Repair Shop",
+    "Region": "Birmingham, UK",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.birminghamautocentre.co.uk/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Lead capture + reminders.",
+    "Notes": "Verify details before outreach."
+  },
+  {
+    "Tier": "B",
+    "Name": "Oficina Mecânica High Torque (São Paulo)",
+    "Type": "Independent Repair Shop",
+    "Region": "São Paulo, Brazil",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.hightorque.com.br/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Portuguese campaign: capture WhatsApp leads + automate follow-up.",
+    "Notes": "High Torque is also media; ensure targeting shop operations."
+  },
+  {
+    "Tier": "B",
+    "Name": "Garage Works (Bangalore)",
+    "Type": "Independent Repair Shop",
+    "Region": "Bengaluru, India",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://garageworks.in/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Capture service enquiries + automate pickup/drop updates.",
+    "Notes": "Multi-location; still end-user service provider."
+  },
+  {
+    "Tier": "B",
+    "Name": "GoMechanic (Mumbai)",
+    "Type": "Independent Repair Shop",
+    "Region": "Mumbai, India",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://gomechanic.in/"
+    ],
+    "Contact": "Website booking/contact",
+    "Pitch angle / CTA": "Partner pitch: optimize lead routing + follow-ups.",
+    "Notes": "Aggregator; use only if campaigns include aggregators."
+  },
+  {
+    "Tier": "B",
+    "Name": "Tech One Automotive",
+    "Type": "Independent Repair Shop",
+    "Region": "Austin, TX, USA",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.techoneauto.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "Automate estimates approvals + reminders.",
+    "Notes": "Family-owned, since 1999."
+  },
+  {
+    "Tier": "B",
+    "Name": "Terry Sayther Automotive",
+    "Type": "Independent Repair Shop",
+    "Region": "Austin, TX, USA",
+    "Primary Channel": "Website",
+    "Links": [
+      "https://www.terrysaytherauto.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "European specialist: streamline booking and customer comms.",
+    "Notes": "BMW/Mini focus."
+  },
+  {
+    "Tier": "A",
+    "Name": "Automotive Diagnostics & Programming",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "Published email",
+    "Links": [
+      "https://www.youtube.com/channel/UC-7f3XJ_6SyedvqKSDmVFbA"
+    ],
+    "Contact": "Email: AutoDiagYT@gmail.com (as shown on channel page)",
+    "Pitch angle / CTA": "CTA: ask to review tool for lead-capture + customer updates; sponsor/affiliate option.",
+    "Notes": "Channel explicitly lists contact email."
+  },
+  {
+    "Tier": "A",
+    "Name": "ScannerDanner",
+    "Type": "Technician Educator (YouTube/Training)",
+    "Region": "USA (Online)",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.scannerdanner.com/",
+      "https://www.youtube.com/@ScannerDanner"
+    ],
+    "Contact": "Website contact / premium site",
+    "Pitch angle / CTA": "CTA: propose integration/partner content: 'digital workflow for diagnostics shops'.",
+    "Notes": "Well-known diagnostics educator."
+  },
+  {
+    "Tier": "A",
+    "Name": "Pine Hollow Auto Diagnostics (YouTube)",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "Website/YouTube",
+    "Links": [
+      "https://www.youtube.com/@PineHollowAutoDiagnostics",
+      "https://pinehollowdiagnostics.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "CTA: invite to try AI assistant for customer comms and approvals.",
+    "Notes": "Also a shop."
+  },
+  {
+    "Tier": "A",
+    "Name": "South Main Auto Repair LLC (YouTube)",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "Website/YouTube",
+    "Links": [
+      "https://www.youtube.com/@SouthMainAuto",
+      "https://www.southmainautorepair.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "CTA: offer demo for service advisor automation.",
+    "Notes": "Very large audience."
+  },
+  {
+    "Tier": "B",
+    "Name": "Humble Mechanic (YouTube)",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.youtube.com/@HumbleMechanic",
+      "https://www.humblemechanic.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "CTA: co-create content: 'stop losing leads—reply in 60 seconds'.",
+    "Notes": "Tech-to-shop-owner content."
+  },
+  {
+    "Tier": "B",
+    "Name": "EricTheCarGuy",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.youtube.com/@EricTheCarGuy",
+      "https://www.ericthecarguy.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "CTA: partner promo focused on DIY-to-shop lead referrals.",
+    "Notes": "Large channel; broader audience."
+  },
+  {
+    "Tier": "B",
+    "Name": "DiagnoseDan (example: L1 Automotive Training)",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/channel/UCnxjq88ipUjDkfhcOjpV7Gw"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: invite to pilot for mobile diagnostics workflow.",
+    "Notes": "Keith, mobile diag tech."
+  },
+  {
+    "Tier": "B",
+    "Name": "Trained by Techs",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@trainedbytechs"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: offer group discount for tech community.",
+    "Notes": "Industry conversation channel."
+  },
+  {
+    "Tier": "B",
+    "Name": "The Practical Mechanic",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@ThePracticalMechanic"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: ask for review + feedback from working techs.",
+    "Notes": "General tech advice."
+  },
+  {
+    "Tier": "B",
+    "Name": "WatchJRGo",
+    "Type": "Technician Creator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@WatchJRGo"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: tool sponsorship: lead capture for shop projects.",
+    "Notes": "Automotive creator; mixed content."
+  },
+  {
+    "Tier": "B",
+    "Name": "Rainman Ray's Repairs",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@RainmanRaysRepairs"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: demo: handle inbound calls/texts + status updates.",
+    "Notes": "Shop-based content."
+  },
+  {
+    "Tier": "B",
+    "Name": "Schrodi's Diagnostic Solutions",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@SchrodisDiagnosticSolutions"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: partner with training + workflow automation.",
+    "Notes": "Diagnostics focused."
+  },
+  {
+    "Tier": "B",
+    "Name": "iATN (International Automotive Technicians Network)",
+    "Type": "Technician Community/Educator",
+    "Region": "Global (Online)",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.iatn.net/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "CTA: partner placement: tool discounts for members.",
+    "Notes": "Community, not a person."
+  },
+  {
+    "Tier": "B",
+    "Name": "A1 Auto",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "Website/YouTube",
+    "Links": [
+      "https://www.youtube.com/@A1Auto",
+      "https://www.1aauto.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "CTA: affiliate + content on customer comms.",
+    "Notes": "Parts + how-to; semi-corporate."
+  },
+  {
+    "Tier": "B",
+    "Name": "The Car Care Nut",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@TheCarCareNut"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: offer shop workflow tool for Toyota specialists.",
+    "Notes": "Popular Toyota-focused."
+  },
+  {
+    "Tier": "B",
+    "Name": "MotorAge Magazine / Training",
+    "Type": "Technician Educator",
+    "Region": "USA (Online)",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.motorage.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "CTA: content partnership: 'modern service advisor workflows'.",
+    "Notes": "Publication."
+  },
+  {
+    "Tier": "B",
+    "Name": "AVI OnDemand",
+    "Type": "Technician Training",
+    "Region": "USA (Online)",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.aviondemand.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "CTA: bundle offer for subscribers.",
+    "Notes": "Training provider."
+  },
+  {
+    "Tier": "B",
+    "Name": "AESwave",
+    "Type": "Technician Tools/Educator",
+    "Region": "USA (Online)",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.aeswave.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "CTA: integrate tool recommendations + workflow automation.",
+    "Notes": "Tools + education."
+  },
+  {
+    "Tier": "B",
+    "Name": "ETCG1 (EricTheCarGuy 2nd channel)",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@etgc1"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: quick product review request.",
+    "Notes": "Secondary channel."
+  },
+  {
+    "Tier": "B",
+    "Name": "ATG (Auto Training Group) - YouTube",
+    "Type": "Technician Training",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@AutoTrainingGroup"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: offer training org a white-label campaign for shops.",
+    "Notes": "Training org."
+  },
+  {
+    "Tier": "B",
+    "Name": "Car Wizard",
+    "Type": "Technician Creator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@CarWizard"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: pitch: improve shop booking + customer updates.",
+    "Notes": "Independent shop creator."
+  },
+  {
+    "Tier": "B",
+    "Name": "Tavarish (auto projects)",
+    "Type": "Technician Creator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@tavarish"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: sponsorship angle.",
+    "Notes": "Project channel."
+  },
+  {
+    "Tier": "B",
+    "Name": "Donut Media (shop audience)",
+    "Type": "Technician Creator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@Donut"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: broad sponsorship; less targeted.",
+    "Notes": "Large media; not tech-only."
+  },
+  {
+    "Tier": "B",
+    "Name": "Engineering Explained (auto) पटक",
+    "Type": "Technician Creator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@EngineeringExplained"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: thought leadership collaboration.",
+    "Notes": "Not a working tech channel; optional."
+  },
+  {
+    "Tier": "B",
+    "Name": "AutoFixPal",
+    "Type": "Technician/Business (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@AutoFixPal"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: invite to demo; focus on shop operations.",
+    "Notes": "Verify target fit."
+  },
+  {
+    "Tier": "B",
+    "Name": "Auto Education Academy",
+    "Type": "Technician Training (YouTube)",
+    "Region": "Global (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@AutoEducationAcademy"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: partnership / affiliate.",
+    "Notes": "Verify contact."
+  },
+  {
+    "Tier": "B",
+    "Name": "Garage Gurus (Tech training)",
+    "Type": "Technician Training",
+    "Region": "USA/EU (Online)",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://www.garagegurus.tech/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "CTA: co-market to trainees + shops.",
+    "Notes": "Training site."
+  },
+  {
+    "Tier": "B",
+    "Name": "Bosch Automotive Training Solutions",
+    "Type": "Technician Training",
+    "Region": "Global",
+    "Primary Channel": "Website contact",
+    "Links": [
+      "https://automotiveaftermarket.bosch.com/"
+    ],
+    "Contact": "Website contact",
+    "Pitch angle / CTA": "CTA: integration/co-marketing.",
+    "Notes": "Corporate."
+  },
+  {
+    "Tier": "B",
+    "Name": "Snap-on Training Solutions (YouTube)",
+    "Type": "Technician Training",
+    "Region": "Global",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@SnaponTrainingSolutions"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: content partnership.",
+    "Notes": "Corporate channel."
+  },
+  {
+    "Tier": "B",
+    "Name": "Autel Official",
+    "Type": "Technician Training",
+    "Region": "Global",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@Auteltech"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: partner content around workflow automation.",
+    "Notes": "Corporate channel."
+  },
+  {
+    "Tier": "B",
+    "Name": "FordTechMakuloco",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@FordTechMakuloco"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: ask to review workflow assistant for shops; affiliate offer.",
+    "Notes": "Ford diagnostic/repair training."
+  },
+  {
+    "Tier": "B",
+    "Name": "I Do Cars",
+    "Type": "Technician Creator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@IDoCars"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: sponsorship angle; highlight customer comms automation.",
+    "Notes": "Engine tear-downs; large audience."
+  },
+  {
+    "Tier": "B",
+    "Name": "TST SEMINARS",
+    "Type": "Technician Training (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@TSTseminars"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: partnership: offer discounts to attendees/techs.",
+    "Notes": "Transmission-focused education."
+  },
+  {
+    "Tier": "B",
+    "Name": "WeberAuto (John D. Kelly)",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@WeberAuto"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: co-branded webinar on shop workflow automation.",
+    "Notes": "Hybrid/EV training content."
+  },
+  {
+    "Tier": "B",
+    "Name": "DiagnoseDan",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@DiagnoseDan"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: demo to evaluate workflow for diagnostic techs.",
+    "Notes": "Diagnostic educator."
+  },
+  {
+    "Tier": "B",
+    "Name": "Car Care Kiosk",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@CarCareKiosk"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: broad audience sponsorship; point to pro shop intake.",
+    "Notes": "DIY leaning; optional."
+  },
+  {
+    "Tier": "B",
+    "Name": "Faye Hadley",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@FayeHadley"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: sponsor content aimed at tech career + shop ops.",
+    "Notes": "Mechanic educator."
+  },
+  {
+    "Tier": "B",
+    "Name": "The Flat Rate Master",
+    "Type": "Technician Educator (YouTube)",
+    "Region": "USA (Online)",
+    "Primary Channel": "YouTube/About",
+    "Links": [
+      "https://www.youtube.com/@TheFlatRateMaster"
+    ],
+    "Contact": "YouTube About contact links",
+    "Pitch angle / CTA": "CTA: offer tool for advisors to reduce wasted time.",
+    "Notes": "Working tech/shop content."
+  }
+]

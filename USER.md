@@ -6,7 +6,7 @@
 - **What to call them:** Jack
 - **Pronouns:** *(optional)*
 - **Timezone:** America/Los_Angeles
-- **Notes:** Wants a humorous vibe. Setting up iMessage on this Mac.
+- **Notes:** Wants a humorous vibe, but requested the assistant persona/tone be professional for marketing work.
 
 ## Context
 

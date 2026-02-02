@@ -1,0 +1,316 @@
+{
+  "inputs": [
+    {
+      "properties": {
+        "firstname": "Pine Hollow Auto",
+        "lastname": "Diagnostics",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/c/PineHollowAutoDiagnostics | https://www.pinehollowdiagnostics.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "South Main",
+        "lastname": "Auto",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/channel/UCtAGzm9e_liY7ko1PBhzTHA | https://www.facebook.com/southmainautorepair/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Rainman Ray’s",
+        "lastname": "Repairs",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/channel/UC7qMMY6UJHpNakTDMz6vVXQ | https://rainmanraysrepairs.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "1A",
+        "lastname": "Auto",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/channel/UCVvE8kQTuZEykvMFZBVzftg | https://www.1aauto.com/about/contact",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "ChrisFix",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/user/PaintballOO7",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Scotty",
+        "lastname": "Kilmer",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/user/scottykilmer",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Torque Test",
+        "lastname": "Channel",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/c/TorqueTestChannel/about | https://www.instagram.com/torquetestchannel/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "realfixesrealfast",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/realfixesrealfast",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Watch Wes",
+        "lastname": "Work",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/@WatchWesWork | https://watchweswork.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Humble",
+        "lastname": "Mechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/channel/UC2gRQKQgI3CsrcnMuHPyYsQ | https://humblemechanic.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Faye",
+        "lastname": "Hadley",
+        "jobtitle": "Affiliate prospect",
+        "company": "Instagram creator",
+        "website": "https://www.instagram.com/pistonsandpixiedust/ | https://www.facebook.com/MechanicalFaye/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "WeberAuto",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/channel/UCtr07mdKhsUwVJjL8Kw_q5A",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Schrodinger’s Box Quantum",
+        "lastname": "Mekanix",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube/Website creator",
+        "website": "https://schrodingersboxqm.com/ | https://www.youtube.com/channel/UCIzxq-myPtltEVZPZ8H4spg",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Autoshop Solutions / Autoshop",
+        "lastname": "Academy",
+        "jobtitle": "Affiliate prospect",
+        "company": "B2B/YouTube creator",
+        "website": "https://autoshopsolutions.com/autoshop-academy/ | https://autoshopsolutions.com/about/contact/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Deutsche Auto",
+        "lastname": "Parts",
+        "jobtitle": "Affiliate prospect",
+        "company": "YouTube creator",
+        "website": "https://www.youtube.com/user/DeutscheAutoParts",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Mattthemechanic43",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@mattthemechanic43",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Rob The",
+        "lastname": "Mechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@robthemechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Uzi",
+        "lastname": "Cheema",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@uzi_cheema",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "MrSubaru1387",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@mrsubaru1387",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "wrenchboss_nj",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@wrenchboss_nj",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Adrian",
+        "lastname": "Aceves",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@hondatech371",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Ez Tech",
+        "lastname": "Joe",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@eztechjoe",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Val",
+        "lastname": "Tools",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@val_tools",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "TE",
+        "lastname": "VIDEOS",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@te_videos",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Harrisen &",
+        "lastname": "Co",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@hfusco22",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Repair Shop",
+        "lastname": "Reckoning",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@repairshopreckoning",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "millennialmechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@millennialmechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Curtis",
+        "lastname": "Gardner",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@techgnarr",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "FlatRate",
+        "lastname": "Co.",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@flatrateco",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "TireTech",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@tiretech_",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Apprentice Car",
+        "lastname": "Care",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@apprenticecarcare",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Hailey the",
+        "lastname": "Mechanic",
+        "jobtitle": "Affiliate prospect",
+        "company": "TikTok creator",
+        "website": "https://www.tiktok.com/@haileythemechanic",
+        "lifecyclestage": "lead"
+      }
+    }
+  ]
+}

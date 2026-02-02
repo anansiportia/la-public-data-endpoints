@@ -1,0 +1,14 @@
+{
+  "label": "Affiliate Recruiting",
+  "displayOrder": 99,
+  "stages": [
+    {"label":"Prospect identified","displayOrder":0,"metadata":{"probability":"0.05"}},
+    {"label":"Contacted","displayOrder":1,"metadata":{"probability":"0.10"}},
+    {"label":"Engaged / replied","displayOrder":2,"metadata":{"probability":"0.25"}},
+    {"label":"Interested","displayOrder":3,"metadata":{"probability":"0.40"}},
+    {"label":"Signup link sent","displayOrder":4,"metadata":{"probability":"0.60"}},
+    {"label":"Signed up","displayOrder":5,"metadata":{"probability":"0.80"}},
+    {"label":"Activated","displayOrder":6,"metadata":{"probability":"1.0"}},
+    {"label":"Not a fit / no response","displayOrder":7,"metadata":{"probability":"0.0"}}
+  ]
+}

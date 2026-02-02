@@ -1,0 +1,868 @@
+{
+  "inputs": [
+    {
+      "properties": {
+        "firstname": "Juke Auto",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.jukeauto.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Hackney Auto",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.hackneyauto.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Arbor Autoworks",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://arborautoworks.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Independent Nissan & Japanese Auto Repair",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.independentnissanlosangeles.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "JC's Auto Repair Shop",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.autorepairshoplosangeles.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Delgado's Auto Service",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.delgados.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "E & J Foreign Cars",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.eandj.com/about-us",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Parkview Auto Repair & Body Shop",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.parkviewautochicago.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Gramenzi Auto Services",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.gramenziautoservices.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Car Clinic of Miami",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://thecarclinicofmiami.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "European Autobahn Inc.",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.mercedesautorepairmiami.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Downtown Automotive",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.downtownautomotiveseattle.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "All Wheel Drive Auto",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://allwheeldriveauto.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Everybody's Auto Service",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.everybodysautoservice.com/auto-repair",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Pawlik Automotive",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://pawlikautomotive.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Trans-Mico Automotive",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.transmico.com/en/contact-mechanic-garage-pierrefonds/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Garage Mario Barthold Inc.",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.garagemario.mechanicnet.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Daytona Garage",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.daytonagarage.co.uk/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Holland Park Autos (London) Ltd",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.hollandpark-autos.co.uk/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "West London Auto Centre",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.thegaragelondon.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Sydney Car Repairs",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://sydneycarrepair.com.au/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Xclusive Automotive",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.xclusiveauto.com.au/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "A.D.R. Auto-Dienst GmbH",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.adr-berlin.de/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "C&N Automotive Service GmbH",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.auto-werkstatt-berlin.de/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Pinguin Werkstatt",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://pinguin-werkstatt.com",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "AK Garage Paris",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://ak-garage.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Taller Madrid",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.taller-madrid.es/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Taller Barcelona",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.tallerbarcelona.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Autofficina Sottile",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.autofficinasottile.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Power Service (Centro de Servicio Automotriz)",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.powerservice.com.mx/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Robertsham Service Centre",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://robertshamservicecentre.co.za/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Kismet Mechanical",
+        "company": "Automotive professional",
+        "jobtitle": "Mobile Mechanic prospect",
+        "website": "https://www.kismetmechanical.com.au/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Autocure Mobile Mechanics",
+        "company": "Automotive professional",
+        "jobtitle": "Mobile Mechanic prospect",
+        "website": "https://www.autocuremobilemechanics.com.au/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Mobile Mechanic Pros of Denver",
+        "company": "Automotive professional",
+        "jobtitle": "Mobile Mechanic prospect",
+        "website": "https://www.mobilemechanicprosofdenver.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Mobile Mechanic 4 Denver",
+        "company": "Automotive professional",
+        "jobtitle": "Mobile Mechanic prospect",
+        "website": "https://mobilemechanic4denver.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "MobileMechanic.london",
+        "company": "Automotive professional",
+        "jobtitle": "Mobile Mechanic prospect",
+        "website": "https://mobilemechanic.london/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "MobileMechanic247",
+        "company": "Automotive professional",
+        "jobtitle": "Mobile Mechanic prospect",
+        "website": "https://mobilemechanic247.co.uk/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Michanic (Johannesburg South)",
+        "company": "Automotive professional",
+        "jobtitle": "Mobile Mechanic prospect",
+        "website": "https://www.michanic.co.za/locations/city-of-johannesburg-metropolitan-municipality/johannesburg-south/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "ACE Mobile Mechanics",
+        "company": "Automotive professional",
+        "jobtitle": "Mobile Mechanic prospect",
+        "website": "https://mobilemechanicdenverco.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Auto Certified Mobile Mechanic",
+        "company": "Automotive professional",
+        "jobtitle": "Mobile Mechanic prospect",
+        "website": "https://www.autocertifiedmobilemechanic.com/contact",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Denver Mobile Mechanic",
+        "company": "Automotive professional",
+        "jobtitle": "Mobile Mechanic prospect",
+        "website": "https://denvermobilemechanic.net/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "South Main Auto Repair",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.southmainautorepair.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Pine Hollow Auto Diagnostics",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://pinehollowdiagnostics.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Humble Mechanic (shop contact via site)",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.humblemechanic.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Fifth Gear Automotive",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://fifthgearauto.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Garage (Napa AutoCare) - example local",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.thegaragedenver.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Luschek's Automotive",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.luscheksauto.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Choice Auto Repair",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.choiceautorepair.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Matt's Automotive Service Center",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://mattsautomotive.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Lindbergh Automotive",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.lindberghautomotive.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Japanese Auto Repair Specialist - Precision Auto",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.precisionautocaresj.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Fountain Tire (independent franchise) - avoid?",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.fountaintire.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Manchester Auto Repairs (example)",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.manchesterautorepairs.co.uk/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Birmingham Auto Centre (example)",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.birminghamautocentre.co.uk/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Oficina Mecânica High Torque (São Paulo)",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.hightorque.com.br/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Garage Works (Bangalore)",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://garageworks.in/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "GoMechanic (Mumbai)",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://gomechanic.in/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Tech One Automotive",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.techoneauto.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Terry Sayther Automotive",
+        "company": "Automotive professional",
+        "jobtitle": "Independent Repair Shop prospect",
+        "website": "https://www.terrysaytherauto.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "ScannerDanner",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube/Training) prospect",
+        "website": "https://www.scannerdanner.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Pine Hollow Auto Diagnostics (YouTube)",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@PineHollowAutoDiagnostics",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "South Main Auto Repair LLC (YouTube)",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@SouthMainAuto",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Humble Mechanic (YouTube)",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@HumbleMechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "EricTheCarGuy",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@EricTheCarGuy",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "DiagnoseDan (example: L1 Automotive Training)",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/channel/UCnxjq88ipUjDkfhcOjpV7Gw",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Trained by Techs",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@trainedbytechs",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Practical Mechanic",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@ThePracticalMechanic",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "WatchJRGo",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Creator (YouTube) prospect",
+        "website": "https://www.youtube.com/@WatchJRGo",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Rainman Ray's Repairs",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@RainmanRaysRepairs",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Schrodi's Diagnostic Solutions",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@SchrodisDiagnosticSolutions",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "iATN (International Automotive Technicians Network)",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Community/Educator prospect",
+        "website": "https://www.iatn.net/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "A1 Auto",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@A1Auto",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Car Care Nut",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@TheCarCareNut",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "MotorAge Magazine / Training",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator prospect",
+        "website": "https://www.motorage.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "AVI OnDemand",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Training prospect",
+        "website": "https://www.aviondemand.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "AESwave",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Tools/Educator prospect",
+        "website": "https://www.aeswave.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "ETCG1 (EricTheCarGuy 2nd channel)",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@etgc1",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "ATG (Auto Training Group) - YouTube",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Training prospect",
+        "website": "https://www.youtube.com/@AutoTrainingGroup",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Car Wizard",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Creator (YouTube) prospect",
+        "website": "https://www.youtube.com/@CarWizard",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Tavarish (auto projects)",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Creator (YouTube) prospect",
+        "website": "https://www.youtube.com/@tavarish",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Donut Media (shop audience)",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Creator (YouTube) prospect",
+        "website": "https://www.youtube.com/@Donut",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Engineering Explained (auto) पटक",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Creator (YouTube) prospect",
+        "website": "https://www.youtube.com/@EngineeringExplained",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "AutoFixPal",
+        "company": "Automotive professional",
+        "jobtitle": "Technician/Business (YouTube) prospect",
+        "website": "https://www.youtube.com/@AutoFixPal",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Auto Education Academy",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Training (YouTube) prospect",
+        "website": "https://www.youtube.com/@AutoEducationAcademy",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Garage Gurus (Tech training)",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Training prospect",
+        "website": "https://www.garagegurus.tech/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Bosch Automotive Training Solutions",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Training prospect",
+        "website": "https://automotiveaftermarket.bosch.com/",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Snap-on Training Solutions (YouTube)",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Training prospect",
+        "website": "https://www.youtube.com/@SnaponTrainingSolutions",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Autel Official",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Training prospect",
+        "website": "https://www.youtube.com/@Auteltech",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "FordTechMakuloco",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@FordTechMakuloco",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "I Do Cars",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Creator (YouTube) prospect",
+        "website": "https://www.youtube.com/@IDoCars",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "TST SEMINARS",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Training (YouTube) prospect",
+        "website": "https://www.youtube.com/@TSTseminars",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "WeberAuto (John D. Kelly)",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@WeberAuto",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "DiagnoseDan",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@DiagnoseDan",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Car Care Kiosk",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@CarCareKiosk",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "Faye Hadley",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@FayeHadley",
+        "lifecyclestage": "lead"
+      }
+    },
+    {
+      "properties": {
+        "firstname": "The Flat Rate Master",
+        "company": "Automotive professional",
+        "jobtitle": "Technician Educator (YouTube) prospect",
+        "website": "https://www.youtube.com/@TheFlatRateMaster",
+        "lifecyclestage": "lead"
+      }
+    }
+  ]
+}

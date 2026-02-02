@@ -1,0 +1,13 @@
+{
+  "label": "Affiliate Recruiting",
+  "displayOrder": 0,
+  "stages": [
+    {"id":"appointmentscheduled","label":"Prospect identified","displayOrder":0,"metadata":{"probability":"0.05"}},
+    {"id":"qualifiedtobuy","label":"Contacted","displayOrder":1,"metadata":{"probability":"0.10"}},
+    {"id":"presentationscheduled","label":"Engaged / replied","displayOrder":2,"metadata":{"probability":"0.25"}},
+    {"id":"decisionmakerboughtin","label":"Interested","displayOrder":3,"metadata":{"probability":"0.40"}},
+    {"id":"contractsent","label":"Signup link sent","displayOrder":4,"metadata":{"probability":"0.60"}},
+    {"id":"closedwon","label":"Signed up","displayOrder":5,"metadata":{"probability":"0.80"}},
+    {"id":"closedlost","label":"Not a fit / no response","displayOrder":6,"metadata":{"probability":"0.0"}}
+  ]
+}

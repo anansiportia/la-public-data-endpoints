@@ -1,0 +1,576 @@
+{
+  "range": "Sheet1!A1:H120",
+  "values": [
+    [
+      "Tier",
+      "Creator",
+      "Primary",
+      "Links",
+      "Audience (approx)",
+      "Contact",
+      "Pitch angle / CTA",
+      "Notes"
+    ],
+    [
+      "A",
+      "ScannerDanner (Paul Danner)",
+      "YouTube",
+      "https://www.youtube.com/channel/UCrf6f8hn5oy4alB2WXJCIqA | https://www.scannerdanner.com/contact-us.html",
+      "~456–469K YT subs",
+      "support@scannerdanner.com",
+      "Diagnostics/electrical workflows → ‘AI diagnostic notes + estimate/explainer’ w/ 20% recurring",
+      "High-intent audience; strong alignment"
+    ],
+    [
+      "A",
+      "Pine Hollow Auto Diagnostics (Ivan Temnykh)",
+      "YouTube",
+      "https://www.youtube.com/c/PineHollowAutoDiagnostics | https://www.pinehollowdiagnostics.com/",
+      "~255K YT subs",
+      "Site contact (verify email)",
+      "‘Second brain’ for symptom→tests→likely causes→customer-friendly explanation + affiliate",
+      "Verify best email via site/about"
+    ],
+    [
+      "A",
+      "South Main Auto (Eric O.)",
+      "YouTube",
+      "https://www.youtube.com/channel/UCtAGzm9e_liY7ko1PBhzTHA | https://www.facebook.com/southmainautorepair/",
+      "~600K+ (verify current)",
+      "DM / business contact (verify)",
+      "Service-writer speed + better estimates/approvals; intermittent electrical help",
+      "Email not obvious in quick pass"
+    ],
+    [
+      "A",
+      "Rainman Ray’s Repairs",
+      "YouTube",
+      "https://www.youtube.com/channel/UC7qMMY6UJHpNakTDMz6vVXQ | https://rainmanraysrepairs.com/",
+      "Large (verify current)",
+      "YouTube About email (verify)",
+      "After-hours time-saver: notes→clean estimate + customer explanation; affiliate",
+      "Need exact email from About"
+    ],
+    [
+      "A",
+      "EricTheCarGuy",
+      "YouTube",
+      "https://www.ericthecarguy.com/contact/",
+      "Large (verify current)",
+      "Biz@EricTheCarGuy.com (per listings; verify)",
+      "DIY repair-planning assistant; ‘ETCG prompt pack’ bonus + affiliate link",
+      "Confirm official biz email"
+    ],
+    [
+      "A",
+      "The Car Care Nut (AMD)",
+      "YouTube",
+      "https://www.youtube.com/c/TheCarCareNut | https://www.facebook.com/thecarcarenut/",
+      "~1.64M YT subs",
+      "thecarcarenut@gmail.com (verify)",
+      "Maintenance-plan + code interpretation for Toyota/Lexus owners; affiliate code",
+      "Strong trust; niche fit"
+    ],
+    [
+      "A",
+      "The Car Wizard",
+      "YouTube",
+      "https://www.youtube.com/channel/UC2TTf3i4wwsRW8ex1zRXH8A | https://www.instagram.com/realcarwizard/",
+      "~900K+ (verify)",
+      "carwizard@adhesivemedia.com (verify)",
+      "‘AI assistant in the shop office’ → findings→customer approvals; affiliate",
+      "Verify current counts"
+    ],
+    [
+      "A",
+      "1A Auto (How-to)",
+      "YouTube",
+      "https://www.youtube.com/channel/UCVvE8kQTuZEykvMFZBVzftg | https://www.1aauto.com/about/contact",
+      "~2.79M YT subs",
+      "Contact form",
+      "DIY funnel: diagnosis→parts/labor notes helper; affiliate partnership",
+      "Enterprise-style outreach"
+    ],
+    [
+      "A",
+      "ChrisFix",
+      "YouTube",
+      "https://www.youtube.com/user/PaintballOO7",
+      "~11M YT subs",
+      "Business email via About (verify)",
+      "DIY-friendly: codes→safe step-by-step plan; affiliate discount",
+      "Verify email/source"
+    ],
+    [
+      "A",
+      "Scotty Kilmer",
+      "YouTube",
+      "https://www.youtube.com/user/scottykilmer",
+      "~6.6M YT subs",
+      "Official contact (verify)",
+      "Simple ‘AI mechanic helper’ pitch + affiliate code",
+      "High-volume reach"
+    ],
+    [
+      "B",
+      "Torque Test Channel",
+      "YouTube",
+      "https://www.youtube.com/c/TorqueTestChannel/about | https://www.instagram.com/torquetestchannel/",
+      "~582K YT subs",
+      "DM / About (verify)",
+      "Tool-buyer angle: ‘unbiased add-on tool’ affiliate-only; drive to madnessbot.com/affiliates",
+      "They avoid sponsors; affiliate may fit"
+    ],
+    [
+      "B",
+      "Project Farm",
+      "YouTube",
+      "https://www.youtube.com/channel/UC2rzsm1Qi6N1X-wuOg_p0Ng | https://project-farm.com/pages/contact-us",
+      "~3.72M YT subs",
+      "info@project-farm.com",
+      "Audience benefit framing; affiliate link + viewer discount",
+      "Large; selective"
+    ],
+    [
+      "B",
+      "realfixesrealfast",
+      "YouTube",
+      "https://www.youtube.com/realfixesrealfast",
+      "~235K YT subs",
+      "DM / About (verify)",
+      "Speed theme: symptoms→plan→estimate narrative in minutes; affiliate",
+      "Need email confirmation"
+    ],
+    [
+      "B",
+      "Watch Wes Work",
+      "YouTube",
+      "https://www.youtube.com/@WatchWesWork | https://watchweswork.com/",
+      "~295–394K YT subs (verify)",
+      "Site contact/DM",
+      "Workflow + admin time reduction; notes→estimate/explanation; affiliate",
+      "Confirm current subs"
+    ],
+    [
+      "B",
+      "Humble Mechanic",
+      "YouTube",
+      "https://www.youtube.com/channel/UC2gRQKQgI3CsrcnMuHPyYsQ | https://humblemechanic.com/",
+      "~300K+ (verify)",
+      "Charles(at)HumbleMechanic.com (verify)",
+      "VAG niche: code→test plan + customer explanation; affiliate discount",
+      "Confirm current stats"
+    ],
+    [
+      "B",
+      "Flat Rate Master",
+      "YouTube",
+      "https://www.youtube.com/@flatratemaster",
+      "~50K+ (verify)",
+      "flatratemaster@gmail.com (verify)",
+      "‘Flat-rate booster’ pitch: faster write-ups + better diag notes; affiliate",
+      "Good for younger tech audience"
+    ],
+    [
+      "B",
+      "Bogi’s Garage (Bogi Lateiner)",
+      "Website/Media",
+      "https://www.bogisgarage.com/contact/",
+      "(verify)",
+      "info@bogisgarage.com",
+      "Education/community: avoid parts cannon; affiliate + workshop/prompt bonus",
+      "Need social size pull"
+    ],
+    [
+      "B",
+      "Faye Hadley (pistonsandpixiedust)",
+      "Instagram",
+      "https://www.instagram.com/pistonsandpixiedust/ | https://www.facebook.com/MechanicalFaye/",
+      "~498K IG followers",
+      "DM / site contact",
+      "Approachable education: explaining repairs + planning steps; affiliate",
+      "Strong IG presence"
+    ],
+    [
+      "B",
+      "WeberAuto (Weber State Univ)",
+      "YouTube",
+      "https://www.youtube.com/channel/UCtr07mdKhsUwVJjL8Kw_q5A",
+      "(verify)",
+      "University contact",
+      "Student lab companion + affiliate for viewers",
+      "Contact process slower"
+    ],
+    [
+      "B",
+      "Trail Mater",
+      "YouTube",
+      "https://www.youtube.com/@trailmater | https://www.trailmater.com/contact",
+      "(verify)",
+      "Rory@moabmotorsport.com",
+      "Shop ops/documentation angle; affiliate",
+      "Need subscriber pull"
+    ],
+    [
+      "C",
+      "Shop Fix Academy",
+      "YouTube/Business",
+      "https://www.youtube.com/@shopfixacademy | https://shopfixacademy.com/contactus/",
+      "(verify)",
+      "Support@ShopFixAcademy.com",
+      "Shop-owner angle: inspections→approvals; affiliate/referral",
+      "B2B style partner"
+    ],
+    [
+      "C",
+      "Remarkable Results Radio",
+      "Podcast/FB",
+      "https://remarkableresults.biz/ | https://www.facebook.com/RemarkableResultsRadioPodcast/",
+      "(verify)",
+      "carm@remarkableresults.biz",
+      "Affiliate or sponsor-style placement + promo code",
+      "Great shop-owner audience"
+    ],
+    [
+      "C",
+      "Schrodinger’s Box Quantum Mekanix",
+      "YouTube/Website",
+      "https://schrodingersboxqm.com/ | https://www.youtube.com/channel/UCIzxq-myPtltEVZPZ8H4spg",
+      "(verify US + size)",
+      "Site contact",
+      "Hardcore diag: structured test plans + logging; affiliate",
+      "Verify US-only"
+    ],
+    [
+      "C",
+      "Autoshop Solutions / Autoshop Academy",
+      "B2B/YouTube",
+      "https://autoshopsolutions.com/autoshop-academy/ | https://autoshopsolutions.com/about/contact/",
+      "(verify)",
+      "Contact page",
+      "Partner/referral deal to reach many shops; affiliate",
+      "More partner than influencer"
+    ],
+    [
+      "C",
+      "Deutsche Auto Parts (DAP)",
+      "YouTube",
+      "https://www.youtube.com/user/DeutscheAutoParts",
+      "(verify)",
+      "YouTube About (verify)",
+      "VAG DIY + parts buyers: code→repair planner; affiliate",
+      "Need email + subs"
+    ],
+    [
+      "C",
+      "(Backfill) PicoScope Diagnostics",
+      "YouTube",
+      "https://www.youtube.com/channel/UC0j4RPLcdNCVJPdEL-Q7m9A",
+      "(verify US focus)",
+      "Channel contact",
+      "Scope/diagnostics audience; affiliate",
+      "May be brand channel (check fit)"
+    ],
+    [
+      "C",
+      "(Backfill) Shop Marketing Pros (blog/channel)",
+      "B2B",
+      "https://shopmarketingpros.com/",
+      "(verify)",
+      "Contact page",
+      "B2B referral to shops; affiliate",
+      "Partner option"
+    ],
+    [
+      "C",
+      "(Backfill) Ratchet+Wrench (trade media)",
+      "Media",
+      "https://www.ratchetandwrench.com/",
+      "(verify)",
+      "Contact page",
+      "Media partnership / affiliate placements",
+      "Optional"
+    ],
+    [
+      "C",
+      "(Backfill) Motor Age / AESwave (industry media)",
+      "Media",
+      "https://www.motorage.com/ | https://www.aeswave.com/",
+      "(verify)",
+      "Contact page",
+      "Industry partnerships / affiliate promos",
+      "Optional"
+    ],
+    [
+      "C",
+      "(Backfill) Just Rolled In (clips/community)",
+      "YouTube/FB",
+      "https://www.youtube.com/c/JustRolledIn",
+      "(verify)",
+      "DM / About",
+      "High-reach culture channel; affiliate might work with simple CTA",
+      "Verify audience + brand fit"
+    ],
+    [
+      "C",
+      "(Backfill) AvE (tools/garage)",
+      "YouTube",
+      "https://www.youtube.com/user/arduinoversusevil",
+      "(verify)",
+      "About (verify)",
+      "Tool audience; might be less auto-focused",
+      "Optional"
+    ],
+    [
+      "C",
+      "(Backfill) Shop owner YouTube case study lead",
+      "YouTube",
+      "(to be identified)",
+      "(verify)",
+      "(TBD)",
+      "Find 3–5 more shop-owner channels for conversion-heavy outreach",
+      "Next pass"
+    ],
+    [
+      "C",
+      "(Backfill) Mobile diagnostic TikTok creator",
+      "TikTok",
+      "(to be identified)",
+      "(verify)",
+      "(TBD)",
+      "Add 10–15 TikTok-first creators in next pass",
+      "Next pass"
+    ],
+    [
+      "C",
+      "(Backfill) Tool truck / Snap-on rep creator",
+      "TikTok/IG",
+      "(to be identified)",
+      "(verify)",
+      "(TBD)",
+      "Add tool ecosystem creators for high purchase intent",
+      "Next pass"
+    ],
+    [
+      "C",
+      "(Backfill) Service advisor / writer training creator",
+      "YouTube/IG",
+      "(to be identified)",
+      "(verify)",
+      "(TBD)",
+      "Target front-counter conversion lever",
+      "Next pass"
+    ],
+    [
+      "C",
+      "(Backfill) Collision/estimator crossover",
+      "YouTube/IG",
+      "(to be identified)",
+      "(verify)",
+      "(TBD)",
+      "Optional adjacent vertical",
+      "Next pass"
+    ],
+    [],
+    [
+      "TIKTOK",
+      "TikTok US Creator Prospects (mechanic/diagnostic) — starting 2026-02-01",
+      "TikTok",
+      "",
+      "",
+      "",
+      "Use madnessbot.com/affiliates (20% recurring)",
+      "Collected via manual profile opens"
+    ],
+    [
+      "A",
+      "Mattthemechanic43",
+      "TikTok",
+      "https://www.tiktok.com/@mattthemechanic43",
+      "2.1M followers | 37.5M likes",
+      "Bio link: venmo.com/ParkersMobile43 (no email shown)",
+      "High-reach shop-adjacent content → ‘AI to explain repairs + speed up writeups/estimates’ + affiliate",
+      "US=verify (bio doesn’t state); contact via link/bio"
+    ],
+    [
+      "A",
+      "Rob The Mechanic (@robthemechanic)",
+      "TikTok",
+      "https://www.tiktok.com/@robthemechanic",
+      "814K followers | 15.3M likes",
+      "Linktr.ee/robthemechanic",
+      "Tools/repair tips audience → ‘AI diag notes + customer-friendly explanation + affiliate’",
+      "US=verify (not stated in bio); linktree likely has email"
+    ],
+    [
+      "A",
+      "Uzi Cheema (@uzi_cheema)",
+      "TikTok",
+      "https://www.tiktok.com/@uzi_cheema",
+      "306.4K followers | 5.4M likes",
+      "Bio link: youtube.com/@cloverlyautocare...",
+      "Techtips/DIY diag → promote as ‘quick second opinion + estimate explainer’ + affiliate",
+      "Bio indicates 🇺🇸"
+    ],
+    [
+      "A",
+      "Sparks Car Care (@sparkscarcare)",
+      "TikTok",
+      "https://www.tiktok.com/@sparkscarcare",
+      "303.2K followers | 6.1M likes",
+      "BGsparksautomotive@gmail.com",
+      "Shop/mechanic life → ‘faster estimates + customer explanations + affiliate’",
+      "Bio includes business email"
+    ],
+    [
+      "A",
+      "MrSubaru1387",
+      "TikTok",
+      "https://www.tiktok.com/@mrsubaru1387",
+      "496.8K followers | 9.6M likes",
+      "Linktr.ee/MrSubaru1387",
+      "Subaru/diagnostics + tool truth content → promote as ‘AI assistant for diag notes + customer explanations’ + affiliate",
+      "US=Yes (mentions South Carolina)"
+    ],
+    [
+      "B",
+      "Tools Are Us (@tools_are_us)",
+      "TikTok",
+      "https://www.tiktok.com/@tools_are_us",
+      "221.5K followers | 3.4M likes",
+      "toolsareus@icloud.com | linktr.ee/tools_r_us",
+      "Tool/repair audience → affiliate w/ ‘shop efficiency + better explanations’ angle",
+      "US=verify"
+    ],
+    [
+      "A",
+      "wrenchboss_nj",
+      "TikTok",
+      "https://www.tiktok.com/@wrenchboss_nj",
+      "1.9M followers | 97M likes",
+      "Bio link: glnk.io/.../wrenchlifenj",
+      "Huge reach; shop-life + tools → affiliate CTA + ‘AI to write estimates/explain repairs’",
+      "US=Yes (NJ)"
+    ],
+    [
+      "B",
+      "Adrian Aceves (@hondatech371)",
+      "TikTok",
+      "https://www.tiktok.com/@hondatech371",
+      "27.9K followers | 585K likes",
+      "linktr.ee/hondatech371 (bio: DM for work)",
+      "Honda tech content → ‘faster writeups + clearer customer explanations’ + affiliate",
+      "US=Yes (Napa, CA in bio)"
+    ],
+    [
+      "B",
+      "Ez Tech Joe (@eztechjoe)",
+      "TikTok",
+      "https://www.tiktok.com/@eztechjoe",
+      "10.8K followers | 209.3K likes",
+      "linktr.ee/eztechjoe",
+      "Diesel mechanic/tool media → affiliate as ‘shop-side assistant’",
+      "US=verify"
+    ],
+    [
+      "B",
+      "Val Tools (@val_tools)",
+      "TikTok",
+      "https://www.tiktok.com/@val_tools",
+      "236.7K followers | 4.4M likes",
+      "DM / TikTok Shop / profile links",
+      "Tool truck / shop tools audience → affiliate CTA",
+      "US=verify"
+    ],
+    [
+      "A",
+      "TE VIDEOS (@te_videos)",
+      "TikTok",
+      "https://www.tiktok.com/@te_videos",
+      "3.1M followers | 49.9M likes",
+      "Bio link: foryabud.com",
+      "High-reach ‘mechanic + tools/shop setup’ entertainment/education → affiliate CTA + ‘AI to explain repairs/estimates + shop efficiency’",
+      "US=verify (not explicit in bio); former dealership tech; strong tool/garage build content"
+    ],
+    [
+      "B",
+      "Harrisen & Co (@hfusco22)",
+      "TikTok",
+      "https://www.tiktok.com/@hfusco22",
+      "270.5K followers | 4.1M likes",
+      "linktr.ee/harrisenco (promo code in bio)",
+      "Mechanic POV + tool cart/toolbox content → affiliate CTA + ‘AI writeups + customer-friendly explanations’",
+      "US=verify; strong tools hashtags (snapon/matco/usgeneral) + high-view pinned videos"
+    ],
+    [
+      "B",
+      "Repair Shop Reckoning (@repairshopreckoning)",
+      "TikTok",
+      "https://www.tiktok.com/@repairshopreckoning",
+      "27.8K followers | 175.6K likes",
+      "TikTok DM / bio (no email shown)",
+      "Shop-owner/business ops angle → ‘use AI to speed up estimates, SOPs, customer explanations’ + affiliate",
+      "US=verify; strong shop strategy content; big pinned views (e.g., 927.3K)"
+    ],
+    [
+      "C",
+      "millennialmechanic (@millennialmechanic)",
+      "TikTok",
+      "https://www.tiktok.com/@millennialmechanic",
+      "4119 followers | 216.3K likes",
+      "TikTok DM (no email shown)",
+      "Dealership tech + tools/humor → affiliate CTA for estimate/writeup explanations",
+      "US=verify; tool posts mixed with other content"
+    ],
+    [
+      "C",
+      "Curtis Gardner (@techgnarr)",
+      "TikTok",
+      "https://www.tiktok.com/@techgnarr",
+      "1701 followers | 52.7K likes",
+      "stan.store/techgnarr",
+      "Training/process content → pitch as ‘AI assistant for VIs, writeups, SOPs’ + affiliate",
+      "US=verify; technician training focus"
+    ],
+    [
+      "C",
+      "FlatRate Co. (@flatrateco)",
+      "TikTok",
+      "https://www.tiktok.com/@flatrateco",
+      "1113 followers | 16K likes",
+      "beacons.ai/flatrateco",
+      "Dealership tech ASMR + tools links → affiliate CTA (high purchase-intent audience)",
+      "US=verify; small account but strong tool-link behavior + some high-view vids"
+    ],
+    [
+      "C",
+      "TireTech (@tiretech_)",
+      "TikTok",
+      "https://www.tiktok.com/@tiretech_",
+      "2430 followers | 90.5K likes",
+      "DM (bio doesn’t list email)",
+      "Tires + tool reviews + shop content → affiliate CTA",
+      "US=Yes (mentions Bay Area in content); small but tools-focused"
+    ],
+    [
+      "C",
+      "Apprentice Car Care (@apprenticecarcare)",
+      "TikTok",
+      "https://www.tiktok.com/@apprenticecarcare",
+      "5535 followers | 31.7K likes",
+      "DM (no email/link in bio)",
+      "Apprentice/mechanic audience → ‘AI to explain repairs + speed up notes’ + affiliate",
+      "US=verify; Snap-on/tools tags show up in posts"
+    ],
+    [
+      "C",
+      "Hailey the Mechanic (@haileythemechanic)",
+      "TikTok",
+      "https://www.tiktok.com/@haileythemechanic",
+      "5519 followers | 47.5K likes",
+      "Instagram: haileythemechanic (from bio)",
+      "Ford tech content → affiliate CTA (writeups + customer explanations)",
+      "US=verify; bio: ‘ford technician’ + IG handle"
+    ]
+  ]
+}
