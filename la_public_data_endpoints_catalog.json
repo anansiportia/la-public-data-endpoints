@@ -1,0 +1,857 @@
+[
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Listing of Active Businesses",
+    "Endpoint URL": "https://data.lacity.org/resource/6rrh-rzua.json",
+    "Sample Query URL": "https://data.lacity.org/resource/6rrh-rzua.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Listing of all active businesses currently registered with the Office of Finance. An \"active\" business is defined as a registered business whose owner has not n"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Crime Data from 2020 to Present",
+    "Endpoint URL": "https://data.lacity.org/resource/2nrs-mtv8.json",
+    "Sample Query URL": "https://data.lacity.org/resource/2nrs-mtv8.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "******Notice: Transition to NIBRS-Compliant Crime Data Reporting\nThe Los Angeles Police Department (LAPD) has completed its transition from the legacy Records M"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Los Angeles International Airport (LAX) - Parking Lots Current Status",
+    "Endpoint URL": "https://data.lacity.org/resource/dik5-hwp6.json",
+    "Sample Query URL": "https://data.lacity.org/resource/dik5-hwp6.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Displays parking information capacity live.\r\nInformation on Parking lots; 1, 2A, 2B, 3, 4, 5, 6, 7, C.\r\nData is updated every five minutes"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Addresses in the City of Los Angeles",
+    "Endpoint URL": "https://data.lacity.org/resource/4ca8-mxuh.json",
+    "Sample Query URL": "https://data.lacity.org/resource/4ca8-mxuh.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Official addresses assigned in the City of Los Angeles created and maintained by the Bureau of Engineering."
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Easy BTRC Lookup Tool",
+    "Endpoint URL": "https://data.lacity.org/resource/8g3t-qf9k.json",
+    "Sample Query URL": "https://data.lacity.org/resource/8g3t-qf9k.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Type into any of the search fields and the results will automatically be refreshed."
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Crime Data from 2010 to 2019",
+    "Endpoint URL": "https://data.lacity.org/resource/63jg-8b9z.json",
+    "Sample Query URL": "https://data.lacity.org/resource/63jg-8b9z.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "******Notice: Transition to NIBRS-Compliant Crime Data Reporting\nThe Los Angeles Police Department (LAPD) has completed its transition from the legacy Records M"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "LADOT Preferential Parking Districts (PPD)",
+    "Endpoint URL": "https://data.lacity.org/resource/2ckn-xmjp.json",
+    "Sample Query URL": "https://data.lacity.org/resource/2ckn-xmjp.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The city council designates certain parts of the city as parking districts. Preferential parking districts (PPD) and overnight parking districts will be designa"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Arrest Data from 2010 to 2019",
+    "Endpoint URL": "https://data.lacity.org/resource/yru6-6re4.json",
+    "Sample Query URL": "https://data.lacity.org/resource/yru6-6re4.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "******Notice: Transition to NIBRS-Compliant Arrest Data Reporting\nThe Los Angeles Police Department (LAPD) has completed its transition from the legacy Records "
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Traffic Collision Data from 2010 to Present",
+    "Endpoint URL": "https://data.lacity.org/resource/d5tf-ez2w.json",
+    "Sample Query URL": "https://data.lacity.org/resource/d5tf-ez2w.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "***Notice: Transition to Modernized Traffic Collision Reporting\nThe Los Angeles Police Department (LAPD) has transitioned traffic collision reporting to a new R"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Posted Street Sweeping Routes",
+    "Endpoint URL": "https://data.lacity.org/resource/krk7-ayq2.json",
+    "Sample Query URL": "https://data.lacity.org/resource/krk7-ayq2.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Motor sweeping program: route #s, boundaries and times for posted routes only. Maps are available as downloadable PDFs under the Attachments section of the Abou"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Building Permits: New Housing Units",
+    "Endpoint URL": "https://data.lacity.org/resource/cpkv-aajs.json",
+    "Sample Query URL": "https://data.lacity.org/resource/cpkv-aajs.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles.  Permi"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Building and Safety - Vacant Building Abatement",
+    "Endpoint URL": "https://data.lacity.org/resource/q3ak-s5hy.json",
+    "Sample Query URL": "https://data.lacity.org/resource/q3ak-s5hy.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The Contract Nuisance Abatement Division abates open, vacant, abandoned, and vandalized buildings, under a process known as Vacant Building Abatement (VBA). <cr"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Electrical",
+    "Endpoint URL": "https://data.lacity.org/resource/y3c3-hqwu.json",
+    "Sample Query URL": "https://data.lacity.org/resource/y3c3-hqwu.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles.  Permi"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Listing of All Businesses",
+    "Endpoint URL": "https://data.lacity.org/resource/r4uk-afju.json",
+    "Sample Query URL": "https://data.lacity.org/resource/r4uk-afju.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Listing of all (active and inactive) businesses registered with the Office of Finance. An \"active\" business is defined as a registered business whose owner has "
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "RAMP Open Bid Opportunities",
+    "Endpoint URL": "https://data.lacity.org/resource/hf3r-utnq.json",
+    "Sample Query URL": "https://data.lacity.org/resource/hf3r-utnq.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "A listing of open bid opportunities provided by the City of Los Angeles and available on the Regional Alliance Marketplace for Procurement, RAMP at https://www."
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Building and Safety Certificate of Occupancy",
+    "Endpoint URL": "https://data.lacity.org/resource/3f9m-afei.json",
+    "Sample Query URL": "https://data.lacity.org/resource/3f9m-afei.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The Department of Building and Safety is required by the Los Angeles Municipal Code to issue a Certificate of Occupancy for every building or structure in the C"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Prostitution along N Western Ave",
+    "Endpoint URL": "https://data.lacity.org/resource/8c4g-tg22.json",
+    "Sample Query URL": "https://data.lacity.org/resource/8c4g-tg22.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "This dataset reflects arrest incidents in the City of Los Angeles dating back to 2010. This data is transcribed from original arrest reports that are typed on p"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "LA County COVID Cases",
+    "Endpoint URL": "https://data.lacity.org/resource/jsff-uc6b.json",
+    "Sample Query URL": "https://data.lacity.org/resource/jsff-uc6b.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "COVID cases and deaths for LA County and California State. Updated daily.\n\nData source: Johns Hopkins University (https://coronavirus.jhu.edu/us-map), \nJohns Ho"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "All Closed Businesses",
+    "Endpoint URL": "https://data.lacity.org/resource/tkh9-tssh.json",
+    "Sample Query URL": "https://data.lacity.org/resource/tkh9-tssh.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Listing of all (active and inactive) businesses registered with the Office of Finance. An \"active\" business is defined as a registered business whose owner has "
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "COMMERCIAL-BUILDINGANDSAFETYPERMITS",
+    "Endpoint URL": "https://data.lacity.org/resource/fqjd-8bkh.json",
+    "Sample Query URL": "https://data.lacity.org/resource/fqjd-8bkh.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles.  Permi"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "COMMERCIAL-BUILDINGANDSAFETYPERMITS",
+    "Endpoint URL": "https://data.lacity.org/resource/y4zb-t59m.json",
+    "Sample Query URL": "https://data.lacity.org/resource/y4zb-t59m.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles.  Permi"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Building Permits over 100K Valuation",
+    "Endpoint URL": "https://data.lacity.org/resource/y5ik-mwat.json",
+    "Sample Query URL": "https://data.lacity.org/resource/y5ik-mwat.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles.  Permi"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "New Residential Building Permits over 100k",
+    "Endpoint URL": "https://data.lacity.org/resource/peyn-q7x3.json",
+    "Sample Query URL": "https://data.lacity.org/resource/peyn-q7x3.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles.  Permi"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Existing Buildings Energy & Water Efficiency (EBEWE) Program",
+    "Endpoint URL": "https://data.lacity.org/resource/9yda-i4ya.json",
+    "Sample Query URL": "https://data.lacity.org/resource/9yda-i4ya.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The City's Existing Buildings Energy & Water Efficiency (EBEWE) Program was established in 2016 (LA Municipal Code Section 91.9701, Ordinance No. 184674) and is"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Electrical",
+    "Endpoint URL": "https://data.lacity.org/resource/5cy5-6te5.json",
+    "Sample Query URL": "https://data.lacity.org/resource/5cy5-6te5.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles.  Permi"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Building Permits Feb'15-Present",
+    "Endpoint URL": "https://data.lacity.org/resource/6q2s-9pnn.json",
+    "Sample Query URL": "https://data.lacity.org/resource/6q2s-9pnn.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles.  Permi"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Storm Drain System",
+    "Endpoint URL": "https://data.lacity.org/resource/pjh9-xwfn.json",
+    "Sample Query URL": "https://data.lacity.org/resource/pjh9-xwfn.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Official Storm Drain System in the City of Los Angeles created and maintained by the Bureau of Engineering / GIS Mapping Division. GIS data contains the storm p"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Los Angeles International Airport - Passenger Traffic By Terminal",
+    "Endpoint URL": "https://data.lacity.org/resource/g3qu-7q2u.json",
+    "Sample Query URL": "https://data.lacity.org/resource/g3qu-7q2u.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Los Angeles International Airport  - Passenger Statistic By Terminal"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "New Commercial Building Permits over 100k",
+    "Endpoint URL": "https://data.lacity.org/resource/hhzr-9ttq.json",
+    "Sample Query URL": "https://data.lacity.org/resource/hhzr-9ttq.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles.  Permi"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Arrest Data from 2020 to Present",
+    "Endpoint URL": "https://data.lacity.org/resource/amvf-fr72.json",
+    "Sample Query URL": "https://data.lacity.org/resource/amvf-fr72.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "******Notice: Transition to NIBRS-Compliant Arrest Data Reporting\nThe Los Angeles Police Department (LAPD) has completed its transition from the legacy Records "
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Building and Safety Code Enforcement Case",
+    "Endpoint URL": "https://data.lacity.org/resource/2uz8-3tj3.json",
+    "Sample Query URL": "https://data.lacity.org/resource/2uz8-3tj3.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "This dataset has been retired and no longer updated.\nPlease use the new dataset found in:\n\n<a href=\"https://data.lacity.org/City-Infrastructure-Service-Requests"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Clients of Registered Lobbying Firms",
+    "Endpoint URL": "https://data.lacity.org/resource/9z5d-hgrh.json",
+    "Sample Query URL": "https://data.lacity.org/resource/9z5d-hgrh.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Entities who wish to influence City matters often hire lobbyists to represent them. A lobbying firm must register these entities as clients."
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Payments Made by Clients to Registered Lobbying Firms",
+    "Endpoint URL": "https://data.lacity.org/resource/h6ky-vznd.json",
+    "Sample Query URL": "https://data.lacity.org/resource/h6ky-vznd.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Payments made by clients to registered Lobbying Firms must be disclosed on a quarterly basis."
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "LADOT Overnight Parking Districts",
+    "Endpoint URL": "https://data.lacity.org/resource/jk9n-burj.json",
+    "Sample Query URL": "https://data.lacity.org/resource/jk9n-burj.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "The city council designates certain parts of the city as parking districts. Preferential parking districts (PPD) and overnight parking districts will be designa"
+  },
+  {
+    "Source": "LA Open Data (Socrata)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Street Names",
+    "Endpoint URL": "https://data.lacity.org/resource/hntu-mwxc.json",
+    "Sample Query URL": "https://data.lacity.org/resource/hntu-mwxc.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Official Street Names in the City of Los Angeles created and maintained by the Bureau of Engineering."
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "LARIAC7 Rooftop Albedo - Geographies",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LARIAC7_Rooftop_Albedo___Geographies/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LARIAC7_Rooftop_Albedo___Geographies/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "LARIAC7 Rooftop Albedo - Buildings",
+    "Endpoint URL": "https://image.gis.lacounty.gov/image/rest/services/CSO/CSO_LARIAC7_BLD_ALBEDO/MapServer/0",
+    "Sample Query URL": "https://image.gis.lacounty.gov/image/rest/services/CSO/CSO_LARIAC7_BLD_ALBEDO/MapServer/0",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "LA County Permitting (EPIC-LA Case History)",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/EPIC-LA_Case_History_view/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/EPIC-LA_Case_History_view/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Los Angeles County Housing Element (2021-2029) - Rezoning",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LA_County_Housing_Element_Rezoning/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LA_County_Housing_Element_Rezoning/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Countywide Statistical Areas (CSAs)",
+    "Endpoint URL": "https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/Political_Boundaries/MapServer/23",
+    "Sample Query URL": "https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/Political_Boundaries/MapServer/23",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "ARDI Participatory Asset Mapping",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/ARDI_Participatory_Asset_Mapping/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/ARDI_Participatory_Asset_Mapping/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Zoned District (ZD)",
+    "Endpoint URL": "https://arcgis.gis.lacounty.gov/arcgis/rest/services/DRP/Open_Data/MapServer/25",
+    "Sample Query URL": "https://arcgis.gis.lacounty.gov/arcgis/rest/services/DRP/Open_Data/MapServer/25",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Rural Outdoor Lighting District (Dark Skies)",
+    "Endpoint URL": "https://arcgis.gis.lacounty.gov/arcgis/rest/services/DRP/Open_Data/MapServer/10",
+    "Sample Query URL": "https://arcgis.gis.lacounty.gov/arcgis/rest/services/DRP/Open_Data/MapServer/10",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Zoning (L.A. County Unincorporated)",
+    "Endpoint URL": "https://arcgis.gis.lacounty.gov/arcgis/rest/services/DRP/Open_Data/MapServer/3",
+    "Sample Query URL": "https://arcgis.gis.lacounty.gov/arcgis/rest/services/DRP/Open_Data/MapServer/3",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Economic Opportunity Area (EOA)",
+    "Endpoint URL": "https://arcgis.gis.lacounty.gov/arcgis/rest/services/DRP/Open_Data/MapServer/32",
+    "Sample Query URL": "https://arcgis.gis.lacounty.gov/arcgis/rest/services/DRP/Open_Data/MapServer/32",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Land Use Policy - Community/Area Plan",
+    "Endpoint URL": "https://arcgis.gis.lacounty.gov/arcgis/rest/services/DRP/Open_Data/MapServer/7",
+    "Sample Query URL": "https://arcgis.gis.lacounty.gov/arcgis/rest/services/DRP/Open_Data/MapServer/7",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "City and Unincorporated Community Boundary (LA County Planning)",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/admin_dist_SDE_DIST_DRP_CITY_COMM_BDY/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/admin_dist_SDE_DIST_DRP_CITY_COMM_BDY/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Countywide Building Outlines (2014)",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Countywide_Building_Outlines/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Countywide_Building_Outlines/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Countywide Building Outlines (2020)",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Countywide_Building_Outlines_(2020)/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Countywide_Building_Outlines_(2020)/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Subprecincts For General Election 2025",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Subprecincts_For_General_Election_2024/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Subprecincts_For_General_Election_2024/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "2023 Buildings with DINS data ",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Buildings_2023_with_DINS/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Buildings_2023_with_DINS/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Environmental Health Restaurant and Market Inspections 01/01/2023 to 12/31/20025",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Restaurant_and_Market_Inspections_01012023_to_123120025/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Restaurant_and_Market_Inspections_01012023_to_123120025/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Environmental Health Restaurant and Market Inventory 12/31/2025",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Restaurant_and_Market_Inventory_12312025/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Restaurant_and_Market_Inventory_12312025/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Environmental Health Rental Housing Habitability Inspections 01/01/2023 to 12/31/2025",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Rental_Housing_Habitability_Inspections_01012023_to_12312025/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Rental_Housing_Habitability_Inspections_01012023_to_12312025/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Environmental Health Housing Routine and Complaint Inspections 01/01/2023 to 12/31/2025",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Housing_Routine_and_Complaint_Inspections_01012023_to_12312025/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Housing_Routine_and_Complaint_Inspections_01012023_to_12312025/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Environmental Health Rental Housing Habitability Violations 01/01/2023 to 12/31/2025 ",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Rental_Housing_Habitability_Routine_and_Complaint_Violations_/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Rental_Housing_Habitability_Routine_and_Complaint_Violations_/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Environmental Health Housing Routine and Complaint Violations 01/01/2023 to 12/31/2025",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Housing_Routine_and_Complaint_Violations_01012023_to_12312025/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Environmental_Health_Housing_Routine_and_Complaint_Violations_01012023_to_12312025/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "LA County ZIP Codes",
+    "Endpoint URL": "https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/Administrative_Boundaries/MapServer/5",
+    "Sample Query URL": "https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/Administrative_Boundaries/MapServer/5",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "PAI Poverty Map Data 2018",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/PAI_Poverty_Map_Data_2018/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/PAI_Poverty_Map_Data_2018/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "Countywide Parks and Open Space (Public - Hosted)",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Countywide_Parks_and_Open_Space__(Public_-_Hosted2)/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Countywide_Parks_and_Open_Space__(Public_-_Hosted2)/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Boundaries2_Test",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/Boundaries2_Test/FeatureServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/Boundaries2_Test/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "FeatureServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Boundaries2_Test",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/Boundaries2_Test/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/Boundaries2_Test/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Boundaries",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/Boundaries/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/Boundaries/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "BuildLAAH_Testing",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/BuildLAAH_Testing/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/BuildLAAH_Testing/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Bureau_of_Street_Lighting",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/Bureau_of_Street_Lighting/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/Bureau_of_Street_Lighting/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Bureau_of_Street_Services",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/Bureau_of_Street_Services/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/Bureau_of_Street_Services/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Census_2010",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/Census_2010/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/Census_2010/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "centerlineLocator",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/centerlineLocator/GeocodeServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/centerlineLocator/GeocodeServer",
+    "Data Type": "ArcGIS REST",
+    "Notes": "GeocodeServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "City_Planning_Department",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/City_Planning_Department/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/City_Planning_Department/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "DWP",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/DWP/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/DWP/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Fire_Department",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/Fire_Department/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/Fire_Department/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "General_Services_Department",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/General_Services_Department/FeatureServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/General_Services_Department/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "FeatureServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "General_Services_Department",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/General_Services_Department/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/General_Services_Department/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Geotechnical_and_Hydrological_Information",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/Geotechnical_and_Hydrological_Information/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/Geotechnical_and_Hydrological_Information/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "LA GeoHub (ArcGIS REST)",
+    "Jurisdiction": "City of Los Angeles",
+    "Dataset/Service": "Housing_and_Community_Investment_Department",
+    "Endpoint URL": "https://maps.lacity.org/lahub/rest/services/Housing_and_Community_Investment_Department/MapServer",
+    "Sample Query URL": "https://maps.lacity.org/lahub/rest/services/Housing_and_Community_Investment_Department/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "City Council Districts",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/colb-council-districts/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/colb-council-districts/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "Long Beach Social Vulnerability",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/census-tracts-2020-copy/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/census-tracts-2020-copy/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "Police Stop Data (RIPA) V2",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/police-stop-data-ripa-copy/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/police-stop-data-ripa-copy/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "Animal Shelter Data",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/animal-shelter-intakes-and-outcomes/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/animal-shelter-intakes-and-outcomes/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "Tree Inventory",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/tree-inventory/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/tree-inventory/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "TID28",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/tid28/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/tid28/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "LBPD Criminal Incident Data",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/lbpd-criminal-incident-data/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/lbpd-criminal-incident-data/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "Enterprise Application Inventory",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/enterprise-application-inventory/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/enterprise-application-inventory/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "Strategic Vision 2030",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/sv2030/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/sv2030/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "Climate Change Inventory",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/climate-change-inventory/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/climate-change-inventory/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "City_Fiber_Map",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/City_Fiber_Map/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/City_Fiber_Map/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "LA Metro Line A Station Buffers",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/LA_Metro_Line_A_Station_Buffers/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/LA_Metro_Line_A_Station_Buffers/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "LA Metro Line A",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/MetroGoldLine/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/MetroGoldLine/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "Specific Plans",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/SpecificPlanAreas/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/SpecificPlanAreas/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "Permit_Activity",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Permit_Activity/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Permit_Activity/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "Parking Permit Kiosks",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Parking_Permit_Kiosks/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Parking_Permit_Kiosks/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "City Council Districts",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/City_Council_Districts_view/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/City_Council_Districts_view/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "Pasadena CA Addresses view",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Pasadena_CA_Addresses_view/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Pasadena_CA_Addresses_view/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "Swim Centers",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Swim_Centers/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Swim_Centers/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "Northwest Area",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Northwest_Area/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Northwest_Area/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  }
+]
