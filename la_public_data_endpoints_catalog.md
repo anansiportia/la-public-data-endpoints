@@ -1,6 +1,6 @@
 # LA Public Data Endpoints Catalog
 
-Total endpoints: 123
+Total endpoints: 140
 
 | Source | Jurisdiction | Dataset/Service | Endpoint URL | Sample Query URL | Data Type | Notes |
 |---|---|---|---|---|---|---|

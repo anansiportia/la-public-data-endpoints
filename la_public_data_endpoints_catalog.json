@@ -1105,5 +1105,158 @@
     "Sample Query URL": "https://www.arcgis.com/sharing/rest/search?f=json&num=1&q=orgid:AXaYBvnJsB5Q7sDF%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22)",
     "Data Type": "ArcGIS REST",
     "Notes": "orgId AXaYBvnJsB5Q7sDF; total 1708 services (Feature/Map) as of 2026-02-02"
+  },
+  {
+    "Source": "West Hollywood Open Data (Socrata)",
+    "Jurisdiction": "City of West Hollywood",
+    "Dataset/Service": "Building and Safety Permits",
+    "Endpoint URL": "https://data.weho.org/resource/646y-yn7s.json",
+    "Sample Query URL": "https://data.weho.org/resource/646y-yn7s.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Building and Safety permit records (WeHo Building and Safety dashboard dataset)."
+  },
+  {
+    "Source": "West Hollywood Open Data (Socrata)",
+    "Jurisdiction": "City of West Hollywood",
+    "Dataset/Service": "WeHo Boundary",
+    "Endpoint URL": "https://data.weho.org/resource/3cvk-ih6b.json",
+    "Sample Query URL": "https://data.weho.org/resource/3cvk-ih6b.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "City boundary line."
+  },
+  {
+    "Source": "El Segundo GIS Hub (ArcGIS Hub)",
+    "Jurisdiction": "City of El Segundo",
+    "Dataset/Service": "Beach City Transit Stops",
+    "Endpoint URL": "https://services9.arcgis.com/NtAn3q92p40X6z9O/arcgis/rest/services/Beach_City_Transit_Stops/FeatureServer",
+    "Sample Query URL": "https://services9.arcgis.com/NtAn3q92p40X6z9O/arcgis/rest/services/Beach_City_Transit_Stops/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Torrance GIS Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Torrance",
+    "Dataset/Service": "Benchmark",
+    "Endpoint URL": "https://services1.arcgis.com/38fAqAZVRCrVtPUU/arcgis/rest/services/Benchmark/FeatureServer",
+    "Sample Query URL": "https://services1.arcgis.com/38fAqAZVRCrVtPUU/arcgis/rest/services/Benchmark/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Downey Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Downey",
+    "Dataset/Service": "Residential Street Improvements v2",
+    "Endpoint URL": "https://services8.arcgis.com/6pr2WaSuWO79zliF/arcgis/rest/services/Residential_Street_Improvements_v2/FeatureServer",
+    "Sample Query URL": "https://services8.arcgis.com/6pr2WaSuWO79zliF/arcgis/rest/services/Residential_Street_Improvements_v2/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Norwalk Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Norwalk",
+    "Dataset/Service": "Norwalk XY Layers Public View",
+    "Endpoint URL": "https://services5.arcgis.com/RoG6zXR8pLCu6c1I/arcgis/rest/services/Norwalk_XY_Layers_Public_View/FeatureServer",
+    "Sample Query URL": "https://services5.arcgis.com/RoG6zXR8pLCu6c1I/arcgis/rest/services/Norwalk_XY_Layers_Public_View/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Compton",
+    "Dataset/Service": "City Boundary (LA County Planning)",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/admin_dist_SDE_DIST_DRP_CITY_COMM_BDY/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/admin_dist_SDE_DIST_DRP_CITY_COMM_BDY/FeatureServer/0/query?where=CITYNAME_ALF%3D%27COMPTON%27&outFields=CITYNAME_ALF&returnGeometry=false&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "LA County city/community boundary layer filtered for Compton."
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Inglewood",
+    "Dataset/Service": "City Boundary (LA County Planning)",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/admin_dist_SDE_DIST_DRP_CITY_COMM_BDY/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/admin_dist_SDE_DIST_DRP_CITY_COMM_BDY/FeatureServer/0/query?where=CITYNAME_ALF%3D%27INGLEWOOD%27&outFields=CITYNAME_ALF&returnGeometry=false&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "LA County city/community boundary layer filtered for Inglewood."
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Hawthorne",
+    "Dataset/Service": "City Boundary (LA County Planning)",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/admin_dist_SDE_DIST_DRP_CITY_COMM_BDY/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/admin_dist_SDE_DIST_DRP_CITY_COMM_BDY/FeatureServer/0/query?where=CITYNAME_ALF%3D%27HAWTHORNE%27&outFields=CITYNAME_ALF&returnGeometry=false&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "LA County city/community boundary layer filtered for Hawthorne."
+  },
+  {
+    "Source": "LA County Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pomona",
+    "Dataset/Service": "City Boundary (LA County Planning)",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/admin_dist_SDE_DIST_DRP_CITY_COMM_BDY/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/admin_dist_SDE_DIST_DRP_CITY_COMM_BDY/FeatureServer/0/query?where=CITYNAME_ALF%3D%27POMONA%27&outFields=CITYNAME_ALF&returnGeometry=false&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "LA County city/community boundary layer filtered for Pomona."
+  },
+  {
+    "Source": "Glendale Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Glendale",
+    "Dataset/Service": "Glendale Police Station",
+    "Endpoint URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/GlendalePoliceStation/FeatureServer",
+    "Sample Query URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/GlendalePoliceStation/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Burbank Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Burbank",
+    "Dataset/Service": "Burbank",
+    "Endpoint URL": "https://services1.arcgis.com/AXaYBvnJsB5Q7sDF/arcgis/rest/services/Burbank/FeatureServer",
+    "Sample Query URL": "https://services1.arcgis.com/AXaYBvnJsB5Q7sDF/arcgis/rest/services/Burbank/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Santa Monica GIS Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Santa Monica",
+    "Dataset/Service": "AED Locations",
+    "Endpoint URL": "https://gis.santamonica.gov/server/rest/services/aed_locations/FeatureServer",
+    "Sample Query URL": "https://gis.santamonica.gov/server/rest/services/aed_locations/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Beverly Hills Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Beverly Hills",
+    "Dataset/Service": "City Parking Structures",
+    "Endpoint URL": "https://services5.arcgis.com/7CXE3aevo18HlHBC/arcgis/rest/services/City_Parking_Structures/FeatureServer",
+    "Sample Query URL": "https://services5.arcgis.com/7CXE3aevo18HlHBC/arcgis/rest/services/City_Parking_Structures/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Culver City Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Culver City",
+    "Dataset/Service": "Draftv1 Street Sweeping Map",
+    "Endpoint URL": "https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/Draftv1_Street_Sweeping_Map_WFL1/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/Draftv1_Street_Sweeping_Map_WFL1/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "Landmark Trees",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Landmark_Tree/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Landmark_Tree/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "Elevate 28 Investment Plan",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/elevate-28-investment-plan/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/elevate-28-investment-plan/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
   }
 ]
