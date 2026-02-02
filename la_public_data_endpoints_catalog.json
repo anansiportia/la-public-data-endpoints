@@ -1042,5 +1042,68 @@
     "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/climate-change-actions/records?limit=1",
     "Data Type": "OpenDataSoft",
     "Notes": ""
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "ArcGIS Online org search (Feature/Map Services)",
+    "Endpoint URL": "https://www.arcgis.com/sharing/rest/search?f=json&q=orgid:zNjnZafDYCAJAbN0%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22)",
+    "Sample Query URL": "https://www.arcgis.com/sharing/rest/search?f=json&num=1&q=orgid:zNjnZafDYCAJAbN0%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22)",
+    "Data Type": "ArcGIS REST",
+    "Notes": "orgId zNjnZafDYCAJAbN0; total 310 services (Feature/Map) as of 2026-02-02; hub domains data.cityofpasadena.net and city-of-pasadena-hub-geoxc.hub.arcgis.com"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "Community Service Areas",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Community_Service_Areas/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Community_Service_Areas/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Pasadena Open Data (ArcGIS Hub)",
+    "Jurisdiction": "City of Pasadena",
+    "Dataset/Service": "Street Sweeping",
+    "Endpoint URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Street_Sweeping/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Street_Sweeping/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Culver City Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Culver City",
+    "Dataset/Service": "ArcGIS Online org search (Feature/Map Services)",
+    "Endpoint URL": "https://www.arcgis.com/sharing/rest/search?f=json&q=orgid:LNAhiRpezPbHTIUO%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22)",
+    "Sample Query URL": "https://www.arcgis.com/sharing/rest/search?f=json&num=1&q=orgid:LNAhiRpezPbHTIUO%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22)",
+    "Data Type": "ArcGIS REST",
+    "Notes": "orgId LNAhiRpezPbHTIUO; total 33 services (Feature/Map) as of 2026-02-02"
+  },
+  {
+    "Source": "Culver City Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Culver City",
+    "Dataset/Service": "City Boundary",
+    "Endpoint URL": "https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/City_Boundary/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/City_Boundary/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Culver City Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Culver City",
+    "Dataset/Service": "Streetlight",
+    "Endpoint URL": "https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/Streetlight/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/Streetlight/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Burbank Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Burbank",
+    "Dataset/Service": "ArcGIS Online org search (Feature/Map Services)",
+    "Endpoint URL": "https://www.arcgis.com/sharing/rest/search?f=json&q=orgid:AXaYBvnJsB5Q7sDF%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22)",
+    "Sample Query URL": "https://www.arcgis.com/sharing/rest/search?f=json&num=1&q=orgid:AXaYBvnJsB5Q7sDF%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22)",
+    "Data Type": "ArcGIS REST",
+    "Notes": "orgId AXaYBvnJsB5Q7sDF; total 1708 services (Feature/Map) as of 2026-02-02"
   }
 ]
