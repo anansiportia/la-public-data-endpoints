@@ -934,5 +934,113 @@
     "Sample Query URL": "https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/Culver_City_Parcels_Sept2024_External/FeatureServer/3/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
     "Data Type": "ArcGIS REST",
     "Notes": "Feature Service (layer 3)"
+  },
+  {
+    "Source": "Glendale Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Glendale",
+    "Dataset/Service": "Fire Stations",
+    "Endpoint URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/FireStations/FeatureServer",
+    "Sample Query URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/FireStations/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Glendale Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Glendale",
+    "Dataset/Service": "Glendale Schools",
+    "Endpoint URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/GlendaleSchools/FeatureServer",
+    "Sample Query URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/GlendaleSchools/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Glendale Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Glendale",
+    "Dataset/Service": "Zoning",
+    "Endpoint URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/Zoning/FeatureServer",
+    "Sample Query URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/Zoning/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Glendale Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Glendale",
+    "Dataset/Service": "City Boundary",
+    "Endpoint URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/Glendale_City_Boundary/MapServer",
+    "Sample Query URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/Glendale_City_Boundary/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "Santa Monica GIS Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Santa Monica",
+    "Dataset/Service": "Address Points",
+    "Endpoint URL": "https://gis.santamonica.gov/server/rest/services/Address_Points/FeatureServer",
+    "Sample Query URL": "https://gis.santamonica.gov/server/rest/services/Address_Points/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Santa Monica GIS Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Santa Monica",
+    "Dataset/Service": "Big Blue Bus Stops and Routes",
+    "Endpoint URL": "https://gis.santamonica.gov/server/rest/services/Big_Blue_Bus_Stops_and_Routes/FeatureServer",
+    "Sample Query URL": "https://gis.santamonica.gov/server/rest/services/Big_Blue_Bus_Stops_and_Routes/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Santa Monica GIS Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Santa Monica",
+    "Dataset/Service": "City Boundary",
+    "Endpoint URL": "https://gis.santamonica.gov/server/rest/services/City_Boundary/MapServer",
+    "Sample Query URL": "https://gis.santamonica.gov/server/rest/services/City_Boundary/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "MapServer"
+  },
+  {
+    "Source": "Beverly Hills Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Beverly Hills",
+    "Dataset/Service": "City Boundary",
+    "Endpoint URL": "https://services5.arcgis.com/7CXE3aevo18HlHBC/arcgis/rest/services/Beverly_Hills_City_Boundary/FeatureServer",
+    "Sample Query URL": "https://services5.arcgis.com/7CXE3aevo18HlHBC/arcgis/rest/services/Beverly_Hills_City_Boundary/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Beverly Hills Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Beverly Hills",
+    "Dataset/Service": "Crime Records (BHPD)",
+    "Endpoint URL": "https://services5.arcgis.com/7CXE3aevo18HlHBC/arcgis/rest/services/CrimecsvforDownload/FeatureServer",
+    "Sample Query URL": "https://services5.arcgis.com/7CXE3aevo18HlHBC/arcgis/rest/services/CrimecsvforDownload/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "Employee Demographics",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/employee-demographics/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/employee-demographics/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "Service Requests",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/service-requests/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/service-requests/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
+  },
+  {
+    "Source": "OpenDataSoft Portal",
+    "Jurisdiction": "City of Long Beach",
+    "Dataset/Service": "Climate Change Actions",
+    "Endpoint URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/climate-change-actions/records",
+    "Sample Query URL": "https://data.longbeach.gov/api/explore/v2.1/catalog/datasets/climate-change-actions/records?limit=1",
+    "Data Type": "OpenDataSoft",
+    "Notes": ""
   }
 ]
