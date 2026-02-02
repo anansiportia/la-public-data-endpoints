@@ -853,5 +853,86 @@
     "Sample Query URL": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Northwest_Area/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
     "Data Type": "ArcGIS REST",
     "Notes": "Feature Service"
+  },
+  {
+    "Source": "Glendale Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Glendale",
+    "Dataset/Service": "Glendale Beeline Bus Stops",
+    "Endpoint URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/GlendaleBeeline_BusStops/FeatureServer",
+    "Sample Query URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/GlendaleBeeline_BusStops/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Glendale Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Glendale",
+    "Dataset/Service": "Glendale Hospitals",
+    "Endpoint URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/GlendaleHospitals/FeatureServer",
+    "Sample Query URL": "https://gismap.glendaleca.gov/arcgis/rest/services/Common/GlendaleHospitals/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Burbank Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Burbank",
+    "Dataset/Service": "Demographics",
+    "Endpoint URL": "https://services1.arcgis.com/AXaYBvnJsB5Q7sDF/arcgis/rest/services/Burbank/FeatureServer/0",
+    "Sample Query URL": "https://services1.arcgis.com/AXaYBvnJsB5Q7sDF/arcgis/rest/services/Burbank/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Layer"
+  },
+  {
+    "Source": "Santa Monica GIS Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Santa Monica",
+    "Dataset/Service": "Shared Mobility Availability Zones",
+    "Endpoint URL": "https://services1.arcgis.com/ntb1ZybmOdA9GyKm/arcgis/rest/services/Shared_Mobility_Availability_Zones/FeatureServer",
+    "Sample Query URL": "https://services1.arcgis.com/ntb1ZybmOdA9GyKm/arcgis/rest/services/Shared_Mobility_Availability_Zones/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Santa Monica GIS Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Santa Monica",
+    "Dataset/Service": "Oil Pipeline",
+    "Endpoint URL": "https://gis.santamonica.gov/server/rest/services/Oil_Pipeline/FeatureServer",
+    "Sample Query URL": "https://gis.santamonica.gov/server/rest/services/Oil_Pipeline/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Beverly Hills Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Beverly Hills",
+    "Dataset/Service": "Bike Racks",
+    "Endpoint URL": "https://services5.arcgis.com/7CXE3aevo18HlHBC/arcgis/rest/services/Bike_Racks/FeatureServer",
+    "Sample Query URL": "https://services5.arcgis.com/7CXE3aevo18HlHBC/arcgis/rest/services/Bike_Racks/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Beverly Hills Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Beverly Hills",
+    "Dataset/Service": "Public Art Installations",
+    "Endpoint URL": "https://services5.arcgis.com/7CXE3aevo18HlHBC/arcgis/rest/services/PublicArt/FeatureServer",
+    "Sample Query URL": "https://services5.arcgis.com/7CXE3aevo18HlHBC/arcgis/rest/services/PublicArt/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "Culver City Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Culver City",
+    "Dataset/Service": "City Facilities",
+    "Endpoint URL": "https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/City_Facilities/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/City_Facilities/FeatureServer/3/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service (layer 3)"
+  },
+  {
+    "Source": "Culver City Open Data (ArcGIS REST)",
+    "Jurisdiction": "City of Culver City",
+    "Dataset/Service": "Culver City Parcels (Sept 2024 External)",
+    "Endpoint URL": "https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/Culver_City_Parcels_Sept2024_External/FeatureServer",
+    "Sample Query URL": "https://services2.arcgis.com/LNAhiRpezPbHTIUO/arcgis/rest/services/Culver_City_Parcels_Sept2024_External/FeatureServer/3/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service (layer 3)"
   }
 ]
