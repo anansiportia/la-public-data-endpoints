@@ -1312,5 +1312,95 @@
     "Sample Query URL": "https://www.arcgis.com/sharing/rest/search?f=json&num=1&q=orgid:lsvzsQ5u5k8py5Sx%20AND%20(type:%22Feature%20Service%22%20OR%20type:%22Map%20Service%22)",
     "Data Type": "ArcGIS REST",
     "Notes": "orgId lsvzsQ5u5k8py5Sx; total 162 services (Feature/Map) as of 2026-02-02."
+  },
+  {
+    "Source": "West Hollywood Open Data (Socrata)",
+    "Jurisdiction": "City of West Hollywood",
+    "Dataset/Service": "West Hollywood Tree Inventory",
+    "Endpoint URL": "https://data.weho.org/resource/963c-68k8.json",
+    "Sample Query URL": "https://data.weho.org/resource/963c-68k8.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Tree inventory for West Hollywood."
+  },
+  {
+    "Source": "West Hollywood Open Data (Socrata)",
+    "Jurisdiction": "City of West Hollywood",
+    "Dataset/Service": "West Hollywood LASD Historical Crime Data - 2005 to 2021",
+    "Endpoint URL": "https://data.weho.org/resource/cfmx-tb5w.json",
+    "Sample Query URL": "https://data.weho.org/resource/cfmx-tb5w.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Historical crime incidents reported by LASD (2005-2021)."
+  },
+  {
+    "Source": "West Hollywood Open Data (Socrata)",
+    "Jurisdiction": "City of West Hollywood",
+    "Dataset/Service": "AED Locations",
+    "Endpoint URL": "https://data.weho.org/resource/53me-dk9c.json",
+    "Sample Query URL": "https://data.weho.org/resource/53me-dk9c.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Automated external defibrillator (AED) locations."
+  },
+  {
+    "Source": "West Hollywood Open Data (Socrata)",
+    "Jurisdiction": "City of West Hollywood",
+    "Dataset/Service": "Budget Expenditure Detail FY17-21",
+    "Endpoint URL": "https://data.weho.org/resource/6pse-xeqx.json",
+    "Sample Query URL": "https://data.weho.org/resource/6pse-xeqx.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Budget expenditure detail for FY2017-2021."
+  },
+  {
+    "Source": "West Hollywood Open Data (Socrata)",
+    "Jurisdiction": "City of West Hollywood",
+    "Dataset/Service": "Budget Revenue Detail FY17-21",
+    "Endpoint URL": "https://data.weho.org/resource/khr4-cuqj.json",
+    "Sample Query URL": "https://data.weho.org/resource/khr4-cuqj.json?$limit=1",
+    "Data Type": "Socrata",
+    "Notes": "Budget revenue detail for FY2017-2021."
+  },
+  {
+    "Source": "LA County Fire Department (ArcGIS)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "LACoFD Fire Station Boundaries",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LACoFD_Fire_Station_Boundaries/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LACoFD_Fire_Station_Boundaries/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Fire Department (ArcGIS)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "LACoFD Historic Fire Perimeters",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LACoFD_Historic_Fire_Perimeters/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LACoFD_Historic_Fire_Perimeters/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Fire Department (ArcGIS)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "LACoFD Fire Hazard Severity Zones - LRA",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LACoFD_Fire_Hazard_Severity_Zones_LRA/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LACoFD_Fire_Hazard_Severity_Zones_LRA/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Fire Department (ArcGIS)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "LACoFD Fire Hazard Severity Zones - SRA",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LACoFD_Fire_Hazard_Severity_Zones_SRA/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LACoFD_Fire_Hazard_Severity_Zones_SRA/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
+  },
+  {
+    "Source": "LA County Fire Department (ArcGIS)",
+    "Jurisdiction": "Los Angeles County",
+    "Dataset/Service": "LACoFD Division Boundaries",
+    "Endpoint URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LACoFD_Division_Boundaries/FeatureServer",
+    "Sample Query URL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LACoFD_Division_Boundaries/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "Feature Service"
   }
 ]
