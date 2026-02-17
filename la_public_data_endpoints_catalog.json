@@ -22959,6 +22959,1176 @@
     "Notes": "ArcGIS item type=Feature Service. {{description}}"
   },
   {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "RPV City Boundary",
+    "Endpoint URL": "https://maps.rpvca.gov/externalarcgis/rest/services/Parks/mapserver",
+    "Sample Query URL": "https://maps.rpvca.gov/externalarcgis/rest/services/Parks/mapserver",
+    "Data Type": "ArcGIS Online",
+    "Notes": "ArcGIS org item type=Map Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "110 Freeway",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/9/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "110 Freeway",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/9/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Abalone Cove Landslide Abatement District",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Portuguese_Bend_Landslide_Complex/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Portuguese_Bend_Landslide_Complex/MapServer/1/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. City of Rancho Palos Verdes Portuguese_Bend_Landslide_Complex map service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Adjacent Cities",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/5/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Adjacent Cities",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Parks_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Parks_Public/MapServer/3/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. City of Rancho Palos Verdes ArcGIS"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Adjacent Cities",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/14/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Based on Districts",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/24/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Blue Line",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/8/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Building Outlines",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/12/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Building Outlines",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/12/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Building Outlines (2014)",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/4/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Building Outlines (2014)",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/11/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Building Outlines Shadows",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/13/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Building Outlines Shadows",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/13/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Bus Stop (2016 Field Collection Project)",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/5/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "CAMSStreetCenterlines",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/11/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Cell Site Location",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/29/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Cell Sites",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/33/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "CellSitesEditor",
+    "Endpoint URL": "http://192.168.10.5:6080/arcgis/rest/services/CellSitesEditor/FeatureServer",
+    "Sample Query URL": "http://192.168.10.5:6080/arcgis/rest/services/CellSitesEditor/FeatureServer",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Edit Cell Sites"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "CellSitesEditor",
+    "Endpoint URL": "http://192.168.10.5:6080/arcgis/rest/services/CellSitesEditor/MapServer",
+    "Sample Query URL": "http://192.168.10.5:6080/arcgis/rest/services/CellSitesEditor/MapServer",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Edit Cell Sites"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "City Boundary",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/1/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "City Boundary",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Parks_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Parks_Public/MapServer/2/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. City of Rancho Palos Verdes ArcGIS"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "City Boundary",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/5/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "City Limit Boundary",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/City_Limit_Boundary/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/City_Limit_Boundary/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. RPV City Limit Boundary hosted feature service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "CitywideParkingPlan",
+    "Endpoint URL": "https://maps.rpvca.gov/externalarcgis/rest/services/CitywideParkingPlan/MapServer",
+    "Sample Query URL": "https://maps.rpvca.gov/externalarcgis/rest/services/CitywideParkingPlan/MapServer",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Cityworks Service Requests Last 7 Days - Open",
+    "Endpoint URL": "http://cityworks.rpvca.gov/Cityworks/gis/1/183/rest/services/cw/FeatureServer/1",
+    "Sample Query URL": "http://cityworks.rpvca.gov/Cityworks/gis/1/183/rest/services/cw/FeatureServer/1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Contours",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Crime2005",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/10/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Crime2006",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/9/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Crime2007",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/8/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Crime2008",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/7/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Crime2009",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/6/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Crime2010",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/5/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Crime2011",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/4/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Crime2012",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/3/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Crime2013",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/2/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Crime2014",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/1/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Equestrian Overlay District",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/36/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Equestrian Overlay District",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer/2/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. City of Rancho Palos Verdes Zoning_Regulations_Public map service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Five Foot Contours (2003)",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/1/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Form_1",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/RPV_Coyote_Sightings_-_3_view/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/RPV_Coyote_Sightings_-_3_view/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Public View of Coyote Sightings"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Form_1",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/service_2c9b3d6fd0da471587d80c2128355583/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/service_2c9b3d6fd0da471587d80c2128355583/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Gold Line",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/9/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Greater Portuguese Bend Landslide Complex (2025)",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Portuguese_Bend_Landslide_Complex/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Portuguese_Bend_Landslide_Complex/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. City of Rancho Palos Verdes Portuguese_Bend_Landslide_Complex map service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Green Eastview",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/11/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Green Line",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/12/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Hillshade",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/15/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Historic Coyote Data 2017-2022 (as of 8/17/22)",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Historic_Coyote_Sightings_WFL1/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Historic_Coyote_Sightings_WFL1/FeatureServer/1/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Housing Element",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Housing_Element/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Housing_Element/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. RPV Housing Element hosted feature service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Klondike Canyon Landslide Abatement District",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Portuguese_Bend_Landslide_Complex/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Portuguese_Bend_Landslide_Complex/MapServer/2/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. City of Rancho Palos Verdes Portuguese_Bend_Landslide_Complex map service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "LA_County_City_Boundaries",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/LA_County_City_Boundaries/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/LA_County_City_Boundaries/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. reference city boundaries LA County"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Landslide Area Evaluation",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Landslide_Area_Evaluation_WFL1/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Landslide_Area_Evaluation_WFL1/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Weekly Landslide Area Evaluation"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Landslide Moratorium Parcels",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. City of Rancho Palos Verdes Zoning_Regulations_Public map service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "LandslideAreaInspection",
+    "Endpoint URL": "http://rpvarcgis.rpv.com:6080/arcgis/rest/services/LandslideAreaInspection/FeatureServer",
+    "Sample Query URL": "http://rpvarcgis.rpv.com:6080/arcgis/rest/services/LandslideAreaInspection/FeatureServer",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Weekly Landslide Area Inspection"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "LandslideAreaInspection",
+    "Endpoint URL": "http://rpvarcgis.rpv.com:6080/arcgis/rest/services/LandslideAreaInspection/MapServer",
+    "Sample Query URL": "http://rpvarcgis.rpv.com:6080/arcgis/rest/services/LandslideAreaInspection/MapServer",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Weekly Landslide Area Inspection"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Landslide_Evaluation",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/service_17ed6d81b3d44a66b5898d8f33aa0a7b/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/service_17ed6d81b3d44a66b5898d8f33aa0a7b/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Los Angeles Metro",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/18/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "MAP_TOUR",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/2022_23_New/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/2022_23_New/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "MAP_TOUR",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/2022_23_Not_Funded/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/2022_23_Not_Funded/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "MAP_TOUR",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/2022_23_Ongoing/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/2022_23_Ongoing/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "MAP_TOUR",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/2022_3_Not_Funded/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/2022_3_Not_Funded/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "MAP_TOUR",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Base/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Base/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "MAP_TOUR",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Base2/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Base2/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "MAP_TOUR",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Category_V/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Category_V/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "MAP_TOUR",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Peninsula_Coordination_Meeting/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Peninsula_Coordination_Meeting/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Major Roads",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/8/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Major Roads",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/8/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Metro Line",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/20/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Metro Stop",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/19/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Neighborhood Parking",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/2/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "New Trash and Recycle Containers",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/New_Trash_and_Recycle_Bins/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/New_Trash_and_Recycle_Bins/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Locations of new trash and recycle bin containers in the City of Rancho Palos Verdes, CA."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Non-Residential Street Sweeping Schedule",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/27/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Ocean",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/6/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Ocean",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/16/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "One Foot Contours (2016)",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/3/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Orange Line",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/15/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Overlay Districts",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer/1/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. City of Rancho Palos Verdes Zoning_Regulations_Public map service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "PV Stop",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/7/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Palos Verdes Peninsula Transit Authority (PVPTA)",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/6/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Palos Verdes Reservoir",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Palos Verdes Reservoir",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Parks_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Parks_Public/MapServer/1/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. City of Rancho Palos Verdes ArcGIS"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Palos Verdes Reservoir",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/4/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Parcels",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/3/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Parcels",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Parcels/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Parcels/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. RPV Parcels hosted feature service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Parcels",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/10/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Parcels (Old)",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/17/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Parcels_Test",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Test/Parcels_Test/MapServer/0",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Test/Parcels_Test/MapServer/0",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Test"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Parks",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Parks_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Parks_Public/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. City of Rancho Palos Verdes ArcGIS"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Parks",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/ParksInternalServiceRequest/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/ParksInternalServiceRequest/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Parks in Rancho Palos Verdes"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Parks",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/ParksServiceRequest/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/ParksServiceRequest/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. City of Rancho Palos Verdes ArcGIS"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Potential Development Site",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer/5/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. City of Rancho Palos Verdes Zoning_Regulations_Public map service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Preserve Properties",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer/6/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. City of Rancho Palos Verdes Zoning_Regulations_Public map service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Proposed Cell Sites",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/32/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Public Transit",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/4/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Public_Works_Internal_Service_Request",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/service_f833b224fd9a4688a62d9b6564c64ffc/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/service_f833b224fd9a4688a62d9b6564c64ffc/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Public_Works_Service_Request",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/service_90888bfae83f4f23bc129167fcda9af0/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/service_90888bfae83f4f23bc129167fcda9af0/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Public_Works_Service_Request",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/survey123_6d13530e7ca84edbb5c4e022bdc54da8_stakeholder/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/survey123_6d13530e7ca84edbb5c4e022bdc54da8_stakeholder/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Residential Street Sweeping Schedule",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/26/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Ridgecrest School",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/10/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Right of Way",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Road Classification",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/1/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Road Districts",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/3/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Route 225",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/16/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Route 226",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/17/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Sept 2015",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Crime_Map/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service. Crime Map"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Silver Line",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/13/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Sothern California Gas Proposed Data Collector Unit (DCU)",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/30/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Street Centerlines",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/7/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Street Centerlines",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/7/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Street Sweeping",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/25/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Streets",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Basemap_Public/MapServer/2/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. External Basemap from REST Service. Basemap_Public project."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Streets",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/6/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Trash Collection Schedule",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/28/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Tree Height Range",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/23/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Tree Trimming",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/22/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Tree Trimming/Trash/Street Sweeping Schedule",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/21/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Two Foot Contours (2006)",
+    "Endpoint URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer",
+    "Sample Query URL": "https://utility.arcgis.com/usrsvcs/servers/e8a8dc0569184be8b028de7bdb03cbc1/rest/services/Basemap/MapServer/2/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Secured basemap test."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "White Line",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/14/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Wire_export",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Wire_export/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Wire_export/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Wireless Telecommunications Facilities",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/31/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Zoning",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/34/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Zoning",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/38/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Zoning",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer/4/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. City of Rancho Palos Verdes Zoning_Regulations_Public map service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Zoning Overlay Districts",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/35/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Zoning Overlay Districts",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Public_Services_Public/MapServer/37/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. Cityworks map service"
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "Zoning Overlay Districts",
+    "Endpoint URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer",
+    "Sample Query URL": "https://gis.rpvca.gov/server/rest/services/Zoning_Regulations_Public/MapServer/3/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Map Service. City of Rancho Palos Verdes Zoning_Regulations_Public map service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "arcgis.arcgis.MAP_TOUR",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Parks_Facilities/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/Parks_Facilities/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "eTRAKiT_Register",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/service_e733b536619b48d7ba1c957cb5a90af4/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/service_e733b536619b48d7ba1c957cb5a90af4/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
+    "Source": "Rancho Palos Verdes Open Data (ArcGIS Online Org Search)",
+    "Jurisdiction": "City of Rancho Palos Verdes",
+    "Dataset/Service": "surveyPoint",
+    "Endpoint URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/survey123_b1f784382f674e1b904cab2dc5e0fe5f/FeatureServer",
+    "Sample Query URL": "https://services6.arcgis.com/ujpK9Y5GvE6XyZF1/arcgis/rest/services/survey123_b1f784382f674e1b904cab2dc5e0fe5f/FeatureServer/0/query?where=1%3D1&outFields=*&f=json&resultRecordCount=1",
+    "Data Type": "ArcGIS REST",
+    "Notes": "ArcGIS org item type=Feature Service."
+  },
+  {
     "Source": "Redondo Beach Open Data (ArcGIS Hub/OpenData)",
     "Jurisdiction": "City of Redondo Beach",
     "Dataset/Service": "Property Land Use and Zoning",
